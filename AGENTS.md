@@ -33,7 +33,7 @@ Für die Tage "Fr. 08." und "So. 10." sind Workshops geplant, wo es auch Theater
 
 ### Plot: "Der Tempel der wahren Stärke"
 
-**Setup:** 
+**Setup:**
 Jugendliche werden ins Spiel gesogen, bekommen Superkräfte. Ein mysteriöser Wächter erklärt: "Um nach Hause zu kommen, müsst ihr den Tempel der wahren Stärke finden und seine Kammern durchqueren."
 
 **Struktur:**
@@ -49,6 +49,10 @@ Wahre Stärke kommt von Gott und Gemeinschaft, nicht von Superkräften.
 
 **Charakterentwicklung:**
 Die Protagonisten bekommen durch das Eingesogen-werden spezielle individuelle Fähigkeiten. Sie lernen aber während der Geschichte, dass sie auch auf die speziellen Fähigkeiten der anderen angewiesen sind, und dass die größte Superkraft das Vertrauen in Gott ist.
+
+## Charaktere
+
+Für eine ausführliche Beschreibung der Charaktere, siehe `Charaktere.md`
 
 # Projektstruktur
 
