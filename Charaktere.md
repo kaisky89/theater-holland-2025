@@ -10,7 +10,7 @@
 - **Charakterentwicklung:** Lernt, dass echte Führung bedeutet, andere zu ermutigen und Gottes Führung zu vertrauen - manchmal muss man auch langsamer werden
 - **Bibelvers-Bezug:** "Ich kann alles durch Christus, der mich stärkt" (Philipper 4,13)
 
-### 2. **FINN** - Der Technik-Experte
+### 2. **KARL** - Der Technik-Experte
 - **Alter:** 15 Jahre
 - **Persönlichkeit:** Clever, erfinderisch, etwas schüchtern, liebt Rätsel und Geheimnisse
 - **Superkraft:** **Technologie-Manipulation** - Kann defekte Geräte reparieren, Signale verstärken, elektronische Fallen überwinden
@@ -51,13 +51,13 @@
 ## Gruppendynamik
 
 **Stärken als Team:**
-- Maya's Führung + Finn's Strategie = Perfekte Planung
+- Maya's Führung + Karl's Strategie = Perfekte Planung
 - Zara's Heilung + Diego's Schutz = Niemand wird zurückgelassen
 - Aria's Spurenlesen + Alle anderen = Sichere Navigation durch alle Gefahren
 
 **Konflikte und Wachstum:**
 - Maya und Diego konkurrieren manchmal um die Führungsrolle
-- Finn und Aria haben unterschiedliche Ansätze (Technologie vs. Naturinstinkt)
+- Karl und Aria haben unterschiedliche Ansätze (Technologie vs. Naturinstinkt)
 - Zara fühlt sich manchmal überfordert von den Bedürfnissen aller
 
 **Zentrale Botschaft:**
