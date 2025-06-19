@@ -1,6 +1,6 @@
 # Projekt Übersicht
 
-In diesem Projekt wird ein Drehbuch für eine Serie von Theaterstücken erstellt.
+In diesem Projekt wird ein Drehbuch für eine Serie von Theater Szenen erstellt, die begleitend zu einer Kinderfreizeit aufgeführt werden.
 
 ## Zielgruppe
 
@@ -9,8 +9,8 @@ Die Zuschauer sind Kinder im Alter von 8 bis 12 Jahren. Die Theaterstücke sind 
 ## Inhaltlicher Rahmen
 
 Das Motiv für die Freizeit ist "Die Unglaublichen, Abenteuer im Dschungel". Es ist eine Mischung aus den Motiven "Superhelden" und "Dschungel". Außerdem wird im Verlauf der Freizeit während der Bibelarbeiten vor allem auf das Thema "Jesus ist stärker" eingegangen. Die Themen sind:
-- "Der Start von Jesus"
 - "Jesus ist stärker als der Zufall"
+- "Der Start von Jesus"
 - "Jesus ist stärker als Krankheit"
 - "Jesus ist stärker als die Natur"
 - "Jesus ist stärker als die Ansprüche der Welt"
@@ -25,7 +25,8 @@ Die Theaterstücke sollen die Kinder unterhalten und gleichzeitig die oben genan
 
 Die Theaterstücke sollen eine Geschichte erzählen, die sich über die gesamte Freizeit erstreckt. Die Handlung soll spannend und unterhaltsam sein, aber auch die christlichen Werte und Themen aufgreifen. Neben den Theaterstücken an sich können auch kleine Aktionen oder Spiele geplant werden, die während der Freizeit stattfinden und die Geschichte aufgreifen oder ergänzen. Diese Aktionen können beispielsweise kleine Rätsel, Schatzsuchen oder andere interaktive Elemente sein, die die Kinder in die Handlung einbeziehen.
 
-Für den Zeitplan, siehe `Zeitplan.md`
+- Für den Zeitplan, siehe `Zeitplan.md`
+- Für die Bibelarbeiten, siehe `Bibelarbeiten.md`
 
 Für die Tage "Fr. 08." und "So. 10." sind Workshops geplant, wo es auch Theater-Workshops geben wird. In diesem Workshop können die Kinder eine kleine Rolle lernen, die sie dann in den anschließenden Theaterstücken übernehmen können.
 
@@ -58,20 +59,20 @@ Für eine ausführliche Beschreibung der Charaktere, siehe `Charaktere.md`
 
 ## Format der Drehbücher
 
-Die Theaterstücke werden im **Markdown-Format (`.md`)** geschrieben.
+Die Theaterstücke werden im **Markdown-Format (`.md`)** geschrieben. Sie liegen im Ordner `Szenen`.
 
-### Struktur eines Theaterstücks
+### Struktur einer Szene
 
-Jedes Theaterstück folgt dieser Grundstruktur:
+Jedes Szene folgt dieser Grundstruktur:
 
 ```markdown
-# [Tag X]: [Titel des Stücks]
+# [Tag X]: [Titel der Szene]
 
 ## Charaktere
 - **Charaktername** (Beschreibung/Rolle)
 - **Kinder** (Publikum/Mitspieler)
 
-## Szene 1: [Szenetitel]
+## Handlung
 
 **CHARAKTERNAME** *(Regieanweisung)*
 Dialog text...
@@ -92,5 +93,4 @@ Interaktiver Dialog...
 - **Charakternamen** werden fett geschrieben und in Großbuchstaben
 - *Regieanweisungen* werden kursiv und in Klammern geschrieben
 - Publikumsinteraktionen werden mit `*(Publikum einbeziehen)*` markiert
-- Jede Szene bekommt eine eigene Überschrift (## Szene X)
 - Regieanweisungen am Ende sammeln alle technischen Details
