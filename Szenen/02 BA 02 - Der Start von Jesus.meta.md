@@ -1,4 +1,8 @@
-(Zielgedanke der BA: Die Kinder wissen, wie es mit Jesus begonnen hat und verstehen, dass Jesus jemand ganz Besonderes ist – zugleich Sohn eines Menschen und Sohn Gottes.)
+# Bibelarbeit
+BA 2: Der Start von Jesus (Marvin)
+- **Text:** Matthäus 1,18–25, ggf. Ergänzungen aus Lukas 2 (Geburt Jesu)
+- **Vers des Tages:** Markus 1,11
+- **Zielgedanke:** Die Kinder wissen, wie es mit Jesus begonnen hat und verstehen, dass Jesus jemand ganz Besonderes ist – zugleich Sohn eines Menschen und Sohn Gottes.
 
 # Grober Ablauf
 

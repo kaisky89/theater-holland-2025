@@ -27,19 +27,20 @@ Die Theaterstücke sollen eine Geschichte erzählen, die sich über die gesamte 
 
 - Für den Zeitplan, siehe `Zeitplan.md`
 - Für die Bibelarbeiten, siehe `Bibelarbeiten.md`
+- **Für den aktuellen Entwicklungsstand, siehe `Drehbuch-Entwicklungsplan.md`**
 
 Für die Tage "Fr. 08." und "So. 10." sind Workshops geplant, wo es auch Theater-Workshops geben wird. In diesem Workshop können die Kinder eine kleine Rolle lernen, die sie dann in den anschließenden Theaterstücken übernehmen können.
 
 ## Haupthandlung
 
-### Plot: "Der Tempel der wahren Stärke"
+### Plot: "Das Tor der wahren Stärke"
 
 **Setup:**
-Jugendliche werden ins Spiel gesogen, bekommen Superkräfte. Ein mysteriöser Wächter erklärt: "Um nach Hause zu kommen, müsst ihr den Tempel der wahren Stärke finden und seine Kammern durchqueren."
+Jugendliche werden ins Spiel gesogen, bekommen Superkräfte. Ein mysteriöser Wächter erklärt: "Um nach Hause zu kommen, müsst ihr das Tor der wahren Stärke finden."
 
 **Struktur:**
-- **Dschungel-Reise:** Verschiedene Prüfungen sammeln Karten-Fragmente und bereiten auf den Tempel vor
-- **Tempel-Finale:** Sie müssen beweisen, was sie auf der Reise gelernt haben
+- **Dschungel-Reise:** Verschiedene Prüfungen sammeln Karten-Fragmente und bereiten auf das Tor vor
+- **Tor-Finale:** Sie müssen beweisen, was sie auf der Reise gelernt haben. Es stellt sich heraus, dass Samuel der einzige ist, der das Tor öffnen kann.
 
 **Mysteriöse Elemente:**
 - Rätsel mit Bibelvers-Bezug an jedem Ort
@@ -55,11 +56,19 @@ Die Protagonisten bekommen durch das Eingesogen-werden spezielle individuelle F�
 
 Für eine ausführliche Beschreibung der Charaktere, siehe `Charaktere.md`
 
+## Entwicklungsstand
+
+**Aktueller Status:** 🟡 Phase 1 - Story-Mapping (In Vorbereitung)
+
+Der detaillierte Entwicklungsplan mit Checklisten und Zeitplanung befindet sich in `Drehbuch-Entwicklungsplan.md`.
+
 # Projektstruktur
 
 ## Format der Drehbücher
 
 Die Theaterstücke werden im **Markdown-Format (`.md`)** geschrieben. Sie liegen im Ordner `Szenen`.
+
+Neben den finalen Szenen werden auch .meta.md Dateien erstellt, die alle groben Planungen, Ideen und Notizen enthalten. Diese Dateien dienen als Arbeitsgrundlage und werden später in die finalen Szenen umgewandelt.
 
 ### Struktur einer Szene
 
@@ -86,11 +95,3 @@ Interaktiver Dialog...
 - Soundeffekte: Liste der Effekte
 - Publikumsinteraktion: Beschreibung der Interaktionen
 - Requisiten: Benötigte Gegenstände
-```
-
-### Formatierungsregeln
-
-- **Charakternamen** werden fett geschrieben und in Großbuchstaben
-- *Regieanweisungen* werden kursiv und in Klammern geschrieben
-- Publikumsinteraktionen werden mit `*(Publikum einbeziehen)*` markiert
-- Regieanweisungen am Ende sammeln alle technischen Details

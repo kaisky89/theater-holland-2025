@@ -1,3 +1,13 @@
+# Bibelarbeit
+BA 1: Gott ist stärker als der Zufall (Janosch)
+- **Text:** 1. Mose 1,26–31 (Schöpfungsgeschichte)
+- **Vers des Tages:** Psalm 139,14
+- **Zielgedanke:** Du bist kein Zufallsprodukt. Du bist wunderbar geschaffen von Gott selbst.
+
+# Ideen
+
+- Dass das Spiel die Protgonisten einsaugt kann als die Katastrophe verstanden werden, ähnlich wie der Sündenfall in der Bibel. Samuel übernimmt die Rolle des Gottes, der die Menschen wieder retten möchte.
+
 # Grober Ablauf
 
 - Die Protagonisten (kennen sich nur vom sehen aus der Schule) kommen zur Premiere eines neuen Computerspiels in der Stadt, sind die ersten, die das Spiel spielen dürfen.
