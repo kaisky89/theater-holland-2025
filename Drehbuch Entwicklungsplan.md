@@ -12,7 +12,7 @@
 **Ziel:** Die Gesamtgeschichte in einzelne Theaterauftritte aufteilen
 
 ### Aufgaben:
-- [ ] **Tag-für-Tag Zuordnung:** Jeden BA-Tag einem Handlungsteil zuordnen
+- [x] **Tag-für-Tag Zuordnung:** Jeden BA-Tag einem Handlungsteil zuordnen
 - [ ] **Charakterentwicklung verteilen:** Welcher Charakter wächst an welchem Tag?
 - [ ] **BA-Themen Integration:** Bezug zu "Jesus ist stärker als..." herstellen
 - [ ] **Spannungsbogen definieren:** Cliffhanger und Wendepunkte planen

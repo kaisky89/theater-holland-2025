@@ -95,3 +95,10 @@ Interaktiver Dialog...
 - Soundeffekte: Liste der Effekte
 - Publikumsinteraktion: Beschreibung der Interaktionen
 - Requisiten: Benötigte Gegenstände
+
+# Formatierungsregeln
+
+- **Charakternamen** werden fett geschrieben und in Großbuchstaben
+- *Regieanweisungen* werden kursiv und in Klammern geschrieben
+- Publikumsinteraktionen werden mit `*(Publikum einbeziehen)*` markiert
+- Regieanweisungen am Ende sammeln alle technischen Details
