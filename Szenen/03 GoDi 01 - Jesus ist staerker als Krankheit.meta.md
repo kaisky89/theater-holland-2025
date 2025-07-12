@@ -14,3 +14,27 @@ Godi 1: Jesus ist stärker als Krankheit (Amy W, Dennis)
 - Diese Medizin bringt die endgültige Heilung
 - Das Team erkennt, dass manche Probleme zu groß sind für ihre eigenen Fähigkeiten
 - Sie beginnen zu verstehen, dass Samuel mehr kann als sie dachten
+
+## Charakterentwicklung
+
+**KARL - Hook (Fortsetzung):**
+- Weitere Rätselversuche auf der Karte
+- Navigation der Gruppe mit anhaltenden Problemen
+- Versucht logische Lösungen für die medizinische Krise zu finden
+
+**ARIA - First Turning Point:**
+- Wichtiger Wendepunkt in ihrem Arc
+- Heilt zunächst eine schwere Verletzung erfolgreich
+- Verletzung wird dann dramatisch schlimmer - völlig unerwarteter Rückschlag
+- Ist komplett überfordert, ihre Fähigkeiten reichen nicht aus
+- Möglicher dramatischer Moment: Sie läuft weg, weil sie sich versagt fühlt
+- Erkennt, dass sie nicht alles allein bewältigen kann
+- Lernt, dass es Situationen gibt, die größer sind als ihre Fähigkeiten
+
+**MAYA:**
+- Noch keine spezifische Charakterentwicklung in dieser Szene
+- Möglicherweise zeigt sie erste Unsicherheit angesichts der ernsten Situation
+
+**DIEGO:**
+- Noch keine spezifische Charakterentwicklung in dieser Szene
+- Möglicherweise derjenige, der verletzt wird und Arias Hilfe braucht

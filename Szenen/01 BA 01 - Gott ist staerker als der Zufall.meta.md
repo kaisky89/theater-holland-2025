@@ -21,6 +21,28 @@ BA 1: Gott ist stärker als der Zufall (Janosch)
 - Maya geht immer voran und die anderen folgen ihr
 - Es wird deutlich, dass das Spiel ziemlich genial gemacht ist. Moral: Gott hat die Menschen wunderbar gemacht, sie sind kein Zufallsprodukt.
 
+## Charakterentwicklung
+
+**MAYA - Hook (Beginn ihres Arcs):**
+- Übernimmt natürlich die Führung der Gruppe im Dschungel
+- Die anderen folgen ihr bereitwillig
+- Zeigt erste Anzeichen von defensivem Verhalten bei kleiner Kritik
+- Vertraut stark auf ihre neue Geschwindigkeit und Kraft
+
+**KARL - Hook (Beginn seines Arcs):**
+- Erhält die Karte von Samuel mit vielen Rätseln
+- Hat Probleme, die Karte korrekt zu deuten
+- Versucht dauerhaft die Rätsel auf der Karte zu lösen
+- Navigiert die Gruppe, aber sie verlaufen sich häufiger
+
+**ARIA:**
+- Noch keine spezifische Charakterentwicklung in dieser Szene
+- Zeigt ihre sensible, mitfühlende Natur
+
+**DIEGO:**
+- Noch keine spezifische Charakterentwicklung in dieser Szene
+- Zeigt seinen Beschützerinstinkt
+
 # Umsetzung
 
 - Die Bühne wird in 2 Teile geteilt: links die "reale Welt" mit der Filiale des Computerspieleherstellers, rechts die "Spielwelt" mit Dschungel
