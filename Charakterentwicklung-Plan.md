@@ -7,79 +7,63 @@ Dieses Dokument verteilt die einzelnen Charakter-Arcs auf die Tage der Theaterse
 ## 1. Überblick der Charakter-Arcs
 
 ### MAYA
-- Ausgangszustand: Vertraut stark auf eigene Geschwindigkeit und Kraft
-- Schwäche: Handelt oft zu schnell, zweifelt an Führung von außen
+- Ausgangszustand: Vertraut stark auf eigene Geschwindigkeit und Kraft, anfangs funktioniert das intuitive Leiten von ihr und die Dominanz auch sehr gut, die anderen hören gern auf sie
+- Schwäche: Handelt oft zu schnell, zweifelt an Führung von außen, es fällt ihr nicht leicht, die Kontrolle abzugeben, Ideen von anderen zu akzeptieren
 - Ziel: Lernen, dass echte Führung Vertrauen und Zuhören erfordert
 - Wendepunkte:
-  - Tag 1 (Prolog) – Hook: realisiert, dass sie nicht alles alleine steuern kann
-  - Tag 2 (Zufall) – First Turning Point: erlebt Gottes Plan vs. Zufall
-  - Tag 10 (Finale) – Climax/Resolution: vertraut ihrem Team und Gottes Führung
+  - BA1 (Zufall) & BA2 (Start) – Hook: alle folgen ihrer Führung, auf kleine Kritik reagiert sie defensiv
+  - BA3 (Natur) – First Turning Point: lernt Samuel/ihrem Team zu vertrauen, obwohl sie anderer Meinung ist
+  - BA5 (Sorgen) – Climax: Größerer Konflikt mit Diego. Überwindet sich, die Kontrolle abzugeben.
 
 ### KARL
+Erhält zu Beginn die Karte von Samuel, in denen er viele Rätsel entdeckt und andaurnd versucht sie zu lösen. Er navigiert außerdem die Gruppe mithilfe der Karte, hat aber immer wieder Probleme, die Karte richtig zu deuten und die Gruppe verläuft sich häufiger.
 - Ausgangszustand: Versteht die Welt rein logisch und technisch
 - Schwäche: Zögert, wenn etwas nicht erklärbar ist
 - Ziel: Begreifen, dass Vertrauen manchmal wichtiger ist als Verstehen
 - Wendepunkte:
-  - Tag 1 (Prolog) – Hook: sieht ein technisches Rätsel, das er nicht allein löst
-  - Tag 3 (Start von Jesus) – Midpoint: erkennt Neuanfang jenseits seiner Logik
-  - Tag 7 (Sorgen) – Climax: vertraut auf Gottes Fürsorge, nicht auf Selbstanalyse
+  - BA1 & BA2 & GoDi1 – Hook: hat Probleme, die Karte korrekt zu deuten, versucht immer wieder Rätsel auf der Karte zu lösen
+  - BA3 (Natur) – Midpoint: Idee mit Floß über Wasser -> funktioniert nicht. Samuel schlägt vor, Steine/Bananenblätter zu nehmen. Karl überwindet seine Logik und vertraut auf Samuel
+  - BA7 (Alleinsein) – Climax: hat ein System für die Entschlüsseling der Karte entwickelt. Am Ende schmeißt er das System (oder die Karte) weg und hört auf Samuel
 
 ### ARIA
-- Ausgangszustand: Mitfühlend, hört alles, vernachlässigt eigene Grenzen
-- Schwäche: Übernimmt zu viel Leid anderer, wird selbst schwach
-- Ziel: Einsicht, dass Gott allein für alle da ist und sie nicht retten muss
+- Ausgangszustand: Mitfühlend, sensibel, vernachlässigt eigene Grenzen
+- Schwäche: Ist schnell überfordert, kämpft mit Selbstzweifel und Schuldgefühlen
+- Ziel: Einsicht, dass sie nicht alles allein tragen muss und dass Vergebung wichtig ist
 - Wendepunkte:
-  - Tag 1 (Prolog) – Hook: spürt alle Ängste des Teams, fühlt sich überfordert
-  - Tag 4 (Krankheit) – First Turning Point: muss entscheiden, wo sie helfen kann
-  - Tag 8 (Schuld) – Climax: löst Schuldgefühle, weil Gott Vergebung schenkt
+  - BA2 (Start) – Hook: heilt kleine Wunde. Ist dabei aber nervös / unsicher / leicht überfordert
+  - GoDi1 (Krankheit) – First Turning Point: Heilt eine Verletzung, es wird aber kurz danach schlimmer (kein Ausweg) und sie ist überfordert. Läuft weg?
+  - GoDi2 (Tod) – Climax1: denkt, dass sie Schuld am Tod von Samuel ist
+  - BA7 (Alleinsein) – Climax2: Vergebung durch Samuel
 
 ### DIEGO
 - Ausgangszustand: Beschützerinstinkt, will alles allein bewältigen
 - Schwäche: Scheut Verletzlichkeit, hasst Enttäuschung
 - Ziel: Erkennen, dass wahre Stärke auch Schwäche zulässt
 - Wendepunkte:
-  - Tag 1 (Prolog) – Hook: seine Stärke reicht nicht gegen ein Geheimnis
-  - Tag 5 (Natur) – First Turning Point: begreift, dass Gemeinschaft stärker ist
-  - Tag 10 (Alleinsein) – Climax: öffnet sich dem Team und Gott
-
-### SAMUEL (Mentor)
-- Ausgangszustand: Mysteriöser Wächter, gibt Herausforderungen vor
-- Funktion: Führt die Gruppe, zeigt Gottes Weg in kritischen Momenten
-- Wendepunkte:
-  - Tag 1 (Prolog) – Setup: erscheint erstmals und erklärt die Mission
-  - Tag 6 (Ansprüche) – Midpoint: hinterfragt die weltlichen Erwartungen
-  - Tag 9 (Tod) – Pre-Finale: bereitet auf den letzten Sieg vor
+  - BA4 (Ansprüche) – Hook & First Turning Point: erkennt Grenzen seiner Stärke, wird von Samuel gelobt, ist irritiert ("Ich habe doch versagt")
+  - BA6 (Schuld) – Climax: die ganze Gruppe ist Schuld am Verschwinden von ???. Er tut erst optimistisch, sie wiederzufinden. Gegen Ende verzweifelt er, öffnet sich -> beim öffnen erwähnt er Details, die helfen, ??? wiederzufinden
 
 ---
 
 ## 2. Arc-Matrix (Tage vs. Beats)
 
-Charakter | Tag (Datum) | BA-Thema | Arc-Beat         | Wachstum / Entscheidung
---------- | ----------- | -------- | ---------------- | -----------------------
-MAYA      | 1 (Do 07)   | Prolog   | Hook             | erkennt: allein nicht genug
-MAYA      | 2 (Fr 08)   | Zufall   | First Turning Pt | vertraut Gottes Plan
-MAYA      | 10 (Sa 16)  | Alleinsein | Climax/Resolution | vertraut Team & Gott
-          |             |          |                  |
-KARL      | 1 (Do 07)   | Prolog   | Hook             | sieht unlösbares Rätsel
-KARL      | 3 (Sa 09)   | Start von Jesus | Midpoint   | nimmt Neuanfang an
-KARL      | 7 (Mi 13)   | Sorgen   | Climax           | vertraut auf Gottes Fürsorge
-          |             |          |                  |
-ARIA      | 1 (Do 07)   | Prolog   | Hook             | spürt Überforderung
-ARIA      | 4 (So 10)   | Krankheit| First Turning Pt | setzt Prioritäten beim Helfen
-ARIA      | 8 (Do 14)   | Schuld   | Climax           | lässt Schuld los durch Vergebung
-          |             |          |                  |
-DIEGO     | 1 (Do 07)   | Prolog   | Hook             | erkennt Grenzen seiner Stärke
-DIEGO     | 5 (Mo 11)   | Natur    | First Turning Pt | akzeptiert Hilfe der anderen
-DIEGO     | 10 (Sa 16)  | Alleinsein | Climax         | zeigt verletzliche Seite, baut Gemeinschaft
-          |             |          |                  |
-SAMUEL    | 1 (Do 07)   | Prolog   | Setup            | erklärt Mission & Regeln
-SAMUEL    | 6 (Di 12)   | Ansprüche| Midpoint         | hinterfragt weltliche Erwartungen
-SAMUEL    | 9 (Fr 15)   | Tod      | Pre-Finale       | stärkt den Glauben vor dem Endkampf
-
----
-
-## 3. Nächste Schritte
-
-1. Diese Matrix im Team-Meeting besprechen und evtl. Beats verschieben
-2. Feintuning: Übergänge zwischen den Arc-Beats mit Requisiten und Musik unterlegen
-3. Szenenentwürfe (Phase 2) erstellen, basierend auf den definierten Arc-Beats
+Charakter | Tag   | BA-Thema | Arc-Beat         | Wachstum / Entscheidung
+--------- | ----- | -------- | ---------------- | -----------------------
+MAYA      | BA1   | Zufall   | Hook             | führt Gruppe, reagiert defensiv auf Kritik
+MAYA      | BA2   | Start von Jesus | Hook (fortgesetzt) | alle folgen ihrer Führung
+MAYA      | BA3   | Natur    | First Turning Pt | lernt Samuel/Team zu vertrauen trotz anderer Meinung
+MAYA      | BA5   | Sorgen   | Climax           | größerer Konflikt mit Diego, gibt Kontrolle ab
+||||
+KARL      | BA1   | Zufall   | Hook             | Probleme Karte zu deuten, versucht Rätsel zu lösen
+KARL      | BA2   | Start von Jesus | Hook (fortgesetzt) | Karten-Navigation, Gruppe verläuft sich
+KARL      | GoDi1 | Krankheit| Hook (fortgesetzt) | weitere Rätselversuche auf der Karte
+KARL      | BA3   | Natur    | Midpoint         | Floß-Idee scheitert, vertraut Samuel trotz Logik
+KARL      | BA7   | Alleinsein | Climax         | wirft System/Karte weg, hört auf Samuel
+||||
+ARIA      | BA2   | Start von Jesus | Hook      | heilt kleine Wunde, nervös/unsicher/überfordert
+ARIA      | GoDi1 | Krankheit| First Turning Pt | Heilung wird schlimmer, ist überfordert, läuft weg
+ARIA      | GoDi2 | Tod      | Climax 1         | denkt, Schuld am Tod von Samuel zu haben
+ARIA      | BA7   | Alleinsein | Climax 2       | erhält Vergebung durch Samuel
+||||
+DIEGO     | BA4   | Ansprüche| Hook & First Turning Pt | erkennt Grenzen, wird von Samuel gelobt, irritiert
+DIEGO     | BA6   | Schuld   | Climax           | Gruppe schuld am Verschwinden, verzweifelt, öffnet sich
