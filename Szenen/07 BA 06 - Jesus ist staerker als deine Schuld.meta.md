@@ -44,3 +44,32 @@ BA 6: Jesus ist stärker als deine Schuld (Dennis)
 - Wird von Samuel aus einer gefährlichen Situation befreit
 - Ihre Abwesenheit treibt die Charakterentwicklung der anderen voran
 - Vorbereitung auf ihre eigenen Climax-Momente in den folgenden Szenen
+
+## Gruppendynamik
+
+**Phase: NORMING - "Wir finden zusammen" (Beginn)**
+
+Durch die gemeinsame Schuld am Verlust von Aria beginnt das Team, echte Verantwortung füreinander zu übernehmen und sich zu öffnen.
+
+**Gruppendynamik-Elemente:**
+- Gemeinsame Schuld schweißt das Team paradoxerweise zusammen
+- Übergang von gegenseitigen Beschuldigungen zu kollektiver Verantwortung
+- Diego's Öffnung und Verletzlichkeit schafft neue emotionale Tiefe in der Gruppe
+- Team übernimmt erstmals wirklich gemeinsam Verantwortung für Fehler
+- Echte Empathie und Fürsorge entstehen - nicht mehr nur oberflächliche Nettigkeit
+- Samuel wird als gemeinsamer Hoffnungsträger und Retter anerkannt
+
+**Theatrale Umsetzung:**
+- Anfangs stehen alle voneinander entfernt - Schuld isoliert jeden
+- Gegenseitige Beschuldigungen: Finger zeigen aufeinander
+- Diego's Zusammenbruch bringt alle näher zusammen - Kreisformation entsteht
+- "Wir haben..." statt "Du hast..." Formulierungen
+- Publikum wird als Zeugen der Verantwortungsübernahme einbezogen
+- Körpersprache wechselt von defensiv zu unterstützend
+- Samuel's Rettung wird gemeinsam gefeiert - erste echte Teamfreude
+
+**Spiegelt Freizeit-Realität:**
+- Tag 7: Nach großen Konflikten beginnt echtes Zusammenwachsen
+- Gemeinsame "Krisen" schweißen Kinder oft mehr zusammen als positive Erlebnisse
+- Kinder lernen, dass Fehler zugeben und Verantwortung übernehmen stärkt die Gruppe
+- Echte Freundschaften entstehen durch schwierige gemeinsame Erfahrungen

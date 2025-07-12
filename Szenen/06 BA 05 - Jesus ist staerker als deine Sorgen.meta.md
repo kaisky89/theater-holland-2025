@@ -47,3 +47,33 @@ BA 5: Jesus ist stärker als deine Sorgen / kümmert sich um dich (Mona)
 - Zeigt seine logische, aber manchmal wenig emotionale Art
 - Hilft Aria dabei, ihre Sorgen zu verstehen und zu strukturieren
 - Noch keine große Charakterentwicklung, aber wichtige Unterstützungsrolle
+
+## Gruppendynamik
+
+**Phase: PEAK STORMING - "Wer hat das Sagen?" (Höhepunkt)**
+
+Der größte Gruppenkonflikt bricht aus. Maya und Diego kollidieren direkt, während Aria und Karl versuchen, Frieden zu stiften.
+
+**Gruppendynamik-Elemente:**
+- Größerer Konflikt zwischen Maya und Diego über die Führungsrolle und Vorgehensweise
+- Team steht kurz vor dem Auseinanderbrechen - verschiedene "Lager" entstehen
+- Aria macht sich Sorgen um den Gruppenzusammenhalt und wird emotionale Vermittlerin
+- Karl zieht sich in seine Rätselwelt zurück - typisches Vermeidungsverhalten
+- Vertrauenskrise: Kann die Gruppe überhaupt noch zusammenarbeiten?
+- Frustration und Verzweiflung erreichen ihren Höhepunkt
+
+**Theatrale Umsetzung:**
+- Protagonisten stehen sich buchstäblich gegenüber: Maya vs. Diego
+- Laute, unterbrechende Dialoge mit Überschneidungen
+- "Das machen wir so!" vs. "Nein, wir machen es anders!"
+- Aria steht zwischen ihnen, Karl wendet sich ab
+- Publikum wird direkt in den Konflikt einbezogen: "Wer hat recht?"
+- Körpersprache zeigt offene Feindseligkeit und Machtkampf
+- Physische Distanz zwischen den Charakteren wird maximal
+
+**Spiegelt Freizeit-Realität:**
+- Tag 5-6: Peak der Freizeiten-Konflikte durch Müdigkeit und Stress
+- Cliquen haben sich gebildet, Machtkämpfe entstehen
+- "Anführer" kollidieren direkt miteinander
+- Manche Kinder ziehen sich zurück, andere versuchen zu vermitteln
+- Gruppe steht kurz vor dem Zerfall, bevor sie zusammenwächst

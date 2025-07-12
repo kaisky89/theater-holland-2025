@@ -48,3 +48,35 @@ BA 7: Jesus ist stärker als dein Alleinsein (Janosch)
 - Hat gelernt, dass wahre Stärke auch Schwäche zulassen kann
 - Unterstützt das Team bei der finalen Erkenntnis
 - Versteht, dass er nicht alles allein bewältigen muss
+
+## Gruppendynamik
+
+**Phase: PERFORMING - "Wir schaffen das gemeinsam"**
+
+Die Gruppe erreicht ihren Höhepunkt der Harmonie und Zusammenarbeit. Alle funktionieren als perfekte Einheit mit vollständigem Vertrauen.
+
+**Gruppendynamik-Elemente:**
+- Team funktioniert als harmonische Einheit ohne Machtkämpfe oder Konkurrenz
+- Jeder bringt seine Stärken ein, ohne andere zu dominieren oder sich zurückzuziehen
+- Spontane, natürliche Problemlösung als Team - keine langen Diskussionen nötig
+- Vollständiges Vertrauen in Samuel und ineinander ist etabliert
+- Gemeinsame Mission (nach Hause zu kommen) wird über alle individuellen Ziele gestellt
+- "Wir-sind-Familie" Gefühl ist vollständig entwickelt
+- Niemand muss mehr den Weg alleine gehen - echte Gemeinschaft
+
+**Theatrale Umsetzung:**
+- Protagonisten bewegen sich in natürlicher, entspannter Nähe zueinander
+- Kurze, verständnisvolle Kommunikation - sie verstehen sich ohne viele Worte
+- "Wir wissen, was zu tun ist" und "Gemeinsam sind wir stark" Formulierungen
+- Publikum wird natürlich als Teil der "Großfamilie" in alle Aktionen einbezogen
+- Körpersprache zeigt vollständige Entspannung und gegenseitiges Vertrauen
+- Karl's Wegwerfen der Karte/des Systems wird von allen unterstützt und gefeiert
+- Samuel wird nicht als externe Autorität, sondern als Teil der Gemeinschaft begrüßt
+
+**Spiegelt Freizeit-Realität:**
+- Tag 9: Harmonische Gruppe kurz vor dem Abschied
+- Echte "Freizeiten-Familie" ist entstanden - niemand wird ausgeschlossen
+- Kinder haben gelernt, ihre verschiedenen Stärken zu schätzen und zu nutzen
+- Wertschätzung füreinander ist maximal gewachsen
+- Gemeinsame Identität und Werte sind fest etabliert
+- Abschiedsschmerz beginnt, weil die Gemeinschaft so wertvoll geworden ist

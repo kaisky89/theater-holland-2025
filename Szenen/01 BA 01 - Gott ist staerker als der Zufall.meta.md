@@ -43,6 +43,31 @@ BA 1: Gott ist stärker als der Zufall (Janosch)
 - Noch keine spezifische Charakterentwicklung in dieser Szene
 - Zeigt seinen Beschützerinstinkt
 
+## Gruppendynamik
+
+**Phase: FORMING - "Wer gehört dazu?" (Beginn)**
+
+Die Gruppe bildet sich zum ersten Mal in der Spielwelt. Alle sind unsicher und orientierungslos in der neuen Situation.
+
+**Gruppendynamik-Elemente:**
+- Unsicherheit und Orientierung in der völlig neuen Dschungel-Umgebung
+- Maya übernimmt natürlich die Führung, alle anderen folgen bereitwillig
+- Höfliches, kooperatives Miteinander - niemand will Konflikte
+- Jeder konzentriert sich darauf, seine neuen Superkräfte zu verstehen
+- Samuel wird als Autorität und Sicherheitsanker akzeptiert
+
+**Theatrale Umsetzung:**
+- Protagonisten stehen zunächst eng beieinander (Sicherheit in der Gruppe)
+- Maya spricht zuerst und für die Gruppe, andere nicken zustimmend
+- Höfliche, fragende Formulierungen: "Sollten wir vielleicht...?"
+- Publikum wird informiert über die Situation, aber noch nicht aktiv eingebunden
+- Körpersprache zeigt Unsicherheit, aber auch Neugier
+
+**Spiegelt Freizeit-Realität:**
+- Kinder am ersten Tag: höflich, zurückhaltend, suchen Orientierung
+- Natürliche Anführer etablieren sich ohne Widerstand
+- Alle wollen sich von ihrer besten Seite zeigen
+
 # Umsetzung
 
 - Die Bühne wird in 2 Teile geteilt: links die "reale Welt" mit der Filiale des Computerspieleherstellers, rechts die "Spielwelt" mit Dschungel

@@ -46,3 +46,31 @@ BA 3: Jesus ist stärker als die Natur (Klimawandel) (Jannik)
 - Will schnelle, direkte Lösung
 - Erste Anzeichen von Konfliktpotential mit Maya
 - Noch keine tiefere Charakterentwicklung, aber Grundstein für späteren Konflikt
+
+## Gruppendynamik
+
+**Phase: EARLY STORMING - "Verschiedene Ideen" (Fortsetzung)**
+
+Die verschiedenen Lösungsansätze führen zu ersten echten Meinungsverschiedenheiten. Maya's Führung wird zum ersten Mal herausgefordert.
+
+**Gruppendynamik-Elemente:**
+- Erste offene Meinungsverschiedenheit: Maya vs. Diego vs. Karl vs. Aria
+- Verschiedene Problemlösungsansätze prallen aufeinander
+- Maya's Führungsstil wird zum ersten Mal in Frage gestellt
+- Diego zeigt Ungeduld mit dem demokratischen Entscheidungsprozess
+- Erste Anzeichen von Konkurrenzdenken zwischen den Ansätzen
+- Frustration entsteht, als die logische Lösung (Floß) scheitert
+
+**Theatrale Umsetzung:**
+- Protagonisten bilden kleine "Lager": Maya mit ihrer Richtung, Diego mit seiner Ungeduld
+- Unterbrechungen und Diskussionen werden häufiger
+- "Aber das dauert zu lange!" vs. "Wir müssen vorsichtig sein!"
+- Publikum wird aktiv um Meinung gebeten: "Was meint ihr, was sollen wir tun?"
+- Körpersprache zeigt erste echte Meinungsverschiedenheiten
+- Karl's gescheiterte Floß-Idee wird theatral übertrieben dargestellt
+
+**Spiegelt Freizeit-Realität:**
+- Tag 3-4: Verschiedene Persönlichkeitstypen kollidieren erstmals
+- "Macher" vs. "Denker" vs. "Vorsichtige" Typen werden sichtbar
+- Kinder lernen, dass es verschiedene Lösungswege gibt
+- Erste Erfahrung, dass nicht alle Ideen funktionieren

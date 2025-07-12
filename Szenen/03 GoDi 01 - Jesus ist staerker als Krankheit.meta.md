@@ -38,3 +38,29 @@ Godi 1: Jesus ist stärker als Krankheit (Amy W, Dennis)
 **DIEGO:**
 - Noch keine spezifische Charakterentwicklung in dieser Szene
 - Möglicherweise derjenige, der verletzt wird und Arias Hilfe braucht
+
+## Gruppendynamik
+
+**Phase: EARLY STORMING - "Verschiedene Ideen" (Beginn)**
+
+Die erste ernsthafte Krise testet die Gruppe. Verschiedene Lösungsansätze entstehen und erste Meinungsverschiedenheiten werden sichtbar.
+
+**Gruppendynamik-Elemente:**
+- Erste echte Herausforderung bringt verschiedene Problemlösungsansätze hervor
+- Stress der medizinischen Krise führt zu ersten Spannungen
+- Karl versucht logische Lösungen, Aria setzt auf ihre Heilkräfte
+- Maya's Führung wird noch nicht direkt herausgefordert, aber erste Unsicherheit entsteht
+- Team beginnt zu verstehen, dass ihre Fähigkeiten Grenzen haben
+
+**Theatrale Umsetzung:**
+- Erste Grüppchenbildung: Protagonisten stehen nicht mehr alle gleich nah beieinander
+- Unterbrechungen in der Kommunikation, erste hektischere Dialoge
+- "Aber ich denke..." und "Nein, wir sollten..." Formulierungen entstehen
+- Publikum wird um Hilfe gebeten: "Was sollen wir tun?"
+- Körpersprache zeigt Stress und erste Meinungsverschiedenheiten
+
+**Spiegelt Freizeit-Realität:**
+- Tag 3-4: Erste echte Konflikte durch Müdigkeit und Stress
+- Verschiedene "Typen" kristallisieren sich heraus (Logiker, Heiler, etc.)
+- Kinder merken, dass nicht alle Probleme einfach lösbar sind
+- Erste Überforderungssituationen entstehen

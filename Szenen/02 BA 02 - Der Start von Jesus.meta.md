@@ -36,3 +36,29 @@ BA 2: Der Start von Jesus (Marvin)
 - Zeigt seine Stärke beim Versuch, schwere Gegenstände zu bewegen
 - Kratzt sich dabei und bittet Aria um Hilfe
 - Noch keine spezifische Charakterentwicklung, etabliert aber seine körperliche Stärke
+
+## Gruppendynamik
+
+**Phase: FORMING - "Wer gehört dazu?" (Fortsetzung)**
+
+Die Gruppe festigt sich weiter, Rollen werden klarer definiert. Erste "Arbeitsteilung" entsteht durch die verschiedenen Superkräfte.
+
+**Gruppendynamik-Elemente:**
+- Maya's Führungsrolle wird weiter etabliert und von allen akzeptiert
+- Rollenverteilung entsteht natürlich durch die verschiedenen Superkräfte
+- Höfliche Kooperation bei den Superkraft-Übungen
+- Gegenseitige Hilfe ohne Konkurrenzdenken (Diego bittet Aria um Heilung)
+- Gemeinsame Neugier und Faszination über Samuel als Spielentwickler
+
+**Theatrale Umsetzung:**
+- Protagonisten beginnen, sich in Formation zu bewegen (Maya vorn, andere folgen)
+- Spontane Hilfsbereitschaft ohne große Diskussion
+- "Wir könnten..." und "Lass uns..." Formulierungen
+- Publikum wird stärker informiert, erste zaghafte Einbindung
+- Körpersprache wird entspannter, erste echte Interaktionen
+
+**Spiegelt Freizeit-Realität:**
+- Tag 2: Kinder beginnen, ihre "Rolle" in der Gruppe zu finden
+- Natürliche Talente und Persönlichkeiten kommen zum Vorschein
+- Noch harmonisch, jeder will helfen und dazugehören
+- Erste faszinierende gemeinsame Entdeckungen schweißen zusammen

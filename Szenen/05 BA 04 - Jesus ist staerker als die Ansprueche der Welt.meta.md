@@ -44,3 +44,31 @@ BA 4: Jesus ist stärker als die Ansprüche der Welt (Janis)
 **ARIA:**
 - Zeigt Mitgefühl für Diegos Situation
 - Noch keine spezifische Charakterentwicklung in dieser Szene
+
+## Gruppendynamik
+
+**Phase: PEAK STORMING - "Wer hat das Sagen?" (Beginn)**
+
+Diego's öffentliches Versagen wird zum ersten großen Gruppenkonflikt. Die Gruppe muss lernen, mit individuellen Schwächen umzugehen.
+
+**Gruppendynamik-Elemente:**
+- Erste große individuelle Krise eines Gruppenmitglieds (Diego's Versagen)
+- Verschiedene Reaktionen auf das Scheitern: Mitleid, Frustration, Hilfsbereitschaft
+- Diego kann den anderen nicht mehr in die Augen schauen - erste echte Scham
+- Maya's Führung wird durch Diego's Krise indirekt herausgefordert
+- Team beginnt zu verstehen, dass jeder Grenzen und Schwächen hat
+- Samuel's Rolle als Tröster und Mutmacher wird wichtiger
+
+**Theatrale Umsetzung:**
+- Diego wendet sich physisch von der Gruppe ab, isoliert sich
+- Andere stehen unschlüssig da - verschiedene Körperhaltungen zeigen verschiedene Reaktionen
+- Längere Pausen und Schweigen nach Diego's Versagen
+- "Was können wir tun?" - hilflose Fragen an das Publikum
+- Samuel's Auftritt bringt neue Gruppendynamik: alle wenden sich ihm zu
+- Karl's Lösung wird gemeinsam gefeiert - erste echte Teamarbeit entsteht
+
+**Spiegelt Freizeit-Realität:**
+- Tag 5: Erste echte "Blamagen" und Versagensgefühle entstehen
+- Kinder lernen, mit den Schwächen anderer umzugehen
+- Machtkämpfe beginnen, wenn bisherige "Stärken" nicht mehr funktionieren
+- Gruppenzusammenhalt wird durch individuelle Krisen getestet

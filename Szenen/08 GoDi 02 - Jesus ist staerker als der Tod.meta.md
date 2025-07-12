@@ -40,3 +40,32 @@ Godi 2: Jesus ist stärker als der Tod (Amy S, Julia)
 **DIEGO:**
 - Nach seinem Öffnen in BA6 ist er möglicherweise besonders betroffen
 - Der Verlust Samuels nach seiner eigenen Verletzlichkeit verstärkt das Drama
+
+## Gruppendynamik
+
+**Phase: NORMING - "Wir finden zusammen" (Fortsetzung)**
+
+Der vermeintliche Verlust von Samuel als ihrem gemeinsamen Mentor und Hoffnungsträger führt die Gruppe in eine tiefe gemeinsame Trauer.
+
+**Gruppendynamik-Elemente:**
+- Gemeinsame Trauer um Samuel schweißt das Team enger zusammen
+- Alle erkennen, wie wichtig Samuel für sie geworden ist - gemeinsamer Verlust
+- Team funktioniert erstmals ohne äußere Führung - sie unterstützen sich gegenseitig
+- Emotionale Verbindung zwischen allen Gruppenmitgliedern entsteht
+- Aria wird zum Zentrum der Aufmerksamkeit - Gruppe kümmert sich um sie
+- Erste Anzeichen einer "Wir-sind-Familie" Mentalität
+- Vorbereitung auf die finale Performing-Phase durch gemeinsame emotionale Erfahrung
+
+**Theatrale Umsetzung:**
+- Alle versammeln sich um Aria - enge Kreisformation zeigt Unterstützung
+- Leise, respektvolle Dialoge - keine Machtkämpfe mehr
+- "Wir sind alle hier für dich" und "Gemeinsam schaffen wir das" Formulierungen
+- Publikum wird als Teil der "trauernden Gemeinschaft" behandelt
+- Körpersprache zeigt echte Empathie: Hände auf Schultern, Umarmungen
+- Stille Momente werden gemeinsam ausgehalten - keine Flucht in Einzelaktionen
+
+**Spiegelt Freizeit-Realität:**
+- Tag 7-8: Gemeinsame schwierige Erfahrungen schweißen Kinder zusammen
+- Verlust eines "Erwachsenen-Ankers" lässt Kinder enger zusammenrücken
+- Echte Freundschaften entstehen oft durch gemeinsam durchlebte Krisen
+- Gruppe entwickelt eigene Identität jenseits der Erwachsenen-Führung
