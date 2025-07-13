@@ -37,7 +37,7 @@
 ## Der mysteriöse Wächter: **SAMUEL**
 - **Rolle:** Mentor und Führer, erscheint in kritischen Momenten
 - **Persönlichkeit:** Weise, geheimnisvoll, gütig aber auch herausfordernd
-- **Superkraft:** Kann zwischen den Welten reisen, kennt die Geheimnisse des Tempels
+- **Superkraft:** Kann zwischen den Welten reisen, kennt die Geheimnisse des "Tors der wahren Stärke"
 - **Funktion:** Stellt den Jugendlichen Aufgaben, gibt Hinweise, verkörpert Gottes Führung
 
 ## Gruppendynamik
@@ -52,4 +52,4 @@
 - Karl und Aria haben unterschiedliche Ansätze (Technologie vs. Naturinstinkt)
 
 **Zentrale Botschaft:**
-Jeder hat einzigartige Gaben, aber nur zusammen und im Vertrauen auf Gott können sie den Tempel der wahren Stärke erreichen.
+Jeder hat einzigartige Gaben, aber nur zusammen und im Vertrauen auf Gott können sie das Tor der wahren Stärke erreichen.

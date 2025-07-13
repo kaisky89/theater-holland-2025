@@ -1,4 +1,4 @@
-# Drehbuch-Entwicklungsplan: "Der Tempel der wahren Stärke"
+# Drehbuch-Entwicklungsplan: "Das Tor der wahren Stärke"
 
 ## Projektübersicht
 **Ziel:** Entwicklung einer zusammenhängenden Theaterserie für die Kinderfreizeit
@@ -13,8 +13,8 @@
 
 ### Aufgaben:
 - [x] **Tag-für-Tag Zuordnung:** Jeden BA-Tag einem Handlungsteil zuordnen
-- [ ] **Charakterentwicklung verteilen:** Welcher Charakter wächst an welchem Tag?
-- [ ] **BA-Themen Integration:** Bezug zu "Jesus ist stärker als..." herstellen
+- [x] **Charakterentwicklung verteilen:** Welcher Charakter wächst an welchem Tag?
+- [x] **BA-Themen Integration:** Bezug zu "Jesus ist stärker als..." herstellen
 - [ ] **Spannungsbogen definieren:** Cliffhanger und Wendepunkte planen
 - [ ] **Publikumsinteraktion:** Interaktive Elemente pro Tag definieren
 
@@ -63,7 +63,7 @@
 
 ### Reihenfolge:
 1. [ ] **Tag 1 (Prolog):** Die Einsaugung
-2. [ ] **Tag 10 (Finale):** Der Tempel der wahren Stärke
+2. [ ] **Tag 10 (Finale):** Das Tor der wahren Stärke
 3. [ ] **Tag 5 (Wendepunkt):** Erste große Prüfung
 4. [ ] **Tage 2-4:** Aufbau und Charakterentwicklung
 5. [ ] **Tage 6-9:** Steigerung zum Finale
