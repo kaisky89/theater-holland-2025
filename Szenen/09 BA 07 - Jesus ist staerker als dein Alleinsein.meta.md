@@ -4,12 +4,31 @@ BA 7: Jesus ist stärker als dein Alleinsein (Janosch)
 - **Vers des Tages:** Matthäus 28,20
 - **Zielgedanke:** Jesus ist mit dir, auch wenn du es nicht immer sofort merkst – wie bei den Emmaus-Jüngern. Du bist nicht allein unterwegs.
 
+# Spannungsbogen
+
+## Übergeordnete Struktur
+- **Akt III: Resolution** - "Die Wahrheit" (BA7)
+- **Ziel:** Finale Prüfung, Erlösung, Heimkehr
+- **Spannungsfrage:** "Was ist wahre Stärke?"
+- **Stakes:** Existenziell (Leben, Tod, Erlösung)
+
+## Spannungseskalation
+- **Persönliche Stakes:** Vergebung und Heilung
+- **Gruppenstakes:** Einheit gefunden
+- **Existenzielle Stakes:** Wahre Stärke erkannt
+- **Spannungslevel:** 2/10 → 10/10
+
+## Cliffhanger-Strategie
+- **Setup:** Alle Fäden kommen zusammen
+- **Finale Wendung:** Samuel kehrt zurück, Tor öffnet sich
+- **Auflösung:** Heimkehr mit neuer Erkenntnis über wahre Stärke
+
 # Grober Ablauf
 
 - Aria ist alleine unterwegs und muss den Weg zu den anderen wiederfinden
 - Sie findet die anderen schließlich wieder - eine emotionale Wiedervereinigung
 - Samuel taucht auf und spricht Aria Vergebung aus für alles was passiert ist
-- Karl hat sich in der Zwischenzeit ein Entschlüsselungssystem für die Karte gebaut
+- Karl hat sich in der Zwischenzeit ein Entschlüsselungssystem für den Kartenwürfel gebaut
 - Am Ende verlässt sich Karl auf Samuels Worte statt nur auf sein System
 - Das Team entdeckt die wichtige Erkenntnis: Nur Samuel kann sie aus dem Spiel rausholen
 - Sie verstehen, dass sie von Anfang an auf Samuel angewiesen waren
@@ -30,8 +49,8 @@ BA 7: Jesus ist stärker als dein Alleinsein (Janosch)
 
 **KARL - Climax:**
 - Finaler Höhepunkt und Abschluss seines Arcs
-- Hat ein komplettes Entschlüsselungssystem für die Karte entwickelt
-- Am Ende schmeißt er das System (oder die Karte) weg
+- Hat ein komplettes Entschlüsselungssystem für den Kartenwürfel entwickelt
+- Am Ende schmeißt er den Kartenwürfel weg
 - Hört stattdessen auf Samuel und vertraut dessen Worten
 - Lernt, dass Vertrauen wichtiger ist als Verstehen
 - Seine größte Lektion: Nicht alles muss logisch erklärbar sein
@@ -70,7 +89,7 @@ Die Gruppe erreicht ihren Höhepunkt der Harmonie und Zusammenarbeit. Alle funkt
 - "Wir wissen, was zu tun ist" und "Gemeinsam sind wir stark" Formulierungen
 - Publikum wird natürlich als Teil der "Großfamilie" in alle Aktionen einbezogen
 - Körpersprache zeigt vollständige Entspannung und gegenseitiges Vertrauen
-- Karl's Wegwerfen der Karte/des Systems wird von allen unterstützt und gefeiert
+- Karl's Wegwerfen der Kartenwürfels wird von allen unterstützt und gefeiert
 - Samuel wird nicht als externe Autorität, sondern als Teil der Gemeinschaft begrüßt
 
 **Spiegelt Freizeit-Realität:**

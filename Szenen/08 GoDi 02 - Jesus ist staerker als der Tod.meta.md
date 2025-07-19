@@ -4,9 +4,28 @@ Godi 2: Jesus ist stärker als der Tod (Amy S, Julia)
 - **Vers des Tages:** 2. Timotheus 1,10
 - **Zielgedanke:** Das Leben auf der Erde ist nicht perfekt, aber wir haben Hoffnung über dieses Leben hinaus – Jesus hat den Tod besiegt.
 
+
+# Spannungsbogen
+
+## Übergeordnete Struktur
+- **Akt III: Resolution** - "Die Wahrheit" (BA7)
+- **Ziel:** Finale Prüfung, Erlösung, Heimkehr
+- **Spannungsfrage:** "Was ist wahre Stärke?"
+- **Stakes:** Existenziell (Leben, Tod, Erlösung)
+
+## Spannungseskalation
+- **Persönliche Stakes:** Trauer um Samuel
+- **Gruppenstakes:** Gemeinsame Verzweiflung
+- **Existenzielle Stakes:** Ist alles verloren?
+- **Spannungslevel:** 10/10
+
+## Cliffhanger-Strategie
+- **Cliffhanger-Typ:** Existential Cliffhanger
+- **Details:** "Ohne Samuel sind wir verloren - gibt es noch Hoffnung?"
+
 # Grober Ablauf
 
-- Samuel findet Aria, die noch immer in Gefahr oder verloren ist
+- Samuel befreit Aria aus einer gefährlichen Situation.
 - In Arias Augen passiert Samuel etwas Schreckliches
 - Aria denkt, dass Samuel tot ist oder stirbt
 - Sie macht sich schwere Selbstvorwürfe, weil sie glaubt, dass Samuel ihretwegen in diese Situation geraten ist
@@ -14,6 +33,12 @@ Godi 2: Jesus ist stärker als der Tod (Amy S, Julia)
 - Es wird deutlich, wie wichtig Samuel für sie und das Team geworden ist
 - Die Situation spiegelt die Hoffnungslosigkeit wider, die Menschen empfinden, wenn sie den Tod konfrontiert sehen
 - Diese Szene bereitet das Thema der Auferstehung und der Hoffnung über den Tod hinaus vor
+
+# Ideen
+
+- Die Gefahr könnte ein wildes Tier sein, das Aria angreift
+- Samuel könnte Aria retten, indem er sich zwischen sie und das Tier stellt
+- Während das Tier auf Samuel losgeht, könnte Aria in Panik geraten und weglaufen
 
 ## Charakterentwicklung
 

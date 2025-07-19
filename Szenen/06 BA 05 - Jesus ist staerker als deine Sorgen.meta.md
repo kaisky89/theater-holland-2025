@@ -4,11 +4,31 @@ BA 5: Jesus ist stärker als deine Sorgen / kümmert sich um dich (Mona)
 - **Vers des Tages:** Philipper 4,6
 - **Zielgedanke:** Wenn Jesus die Nummer 1 in unserem Leben ist, müssen wir uns keine Sorgen machen, denn er kümmert sich um uns.
 
+
+# Spannungsbogen
+
+## Übergeordnete Struktur
+- **Akt II: Confrontation** - "Die Prüfungen" (BA5)
+- **Ziel:** Hindernisse eskalieren, Gruppe wird getestet
+- **Spannungsfrage:** "Schaffen wir es überhaupt?"
+- **Stakes:** Interpersonal (Teamkonflikte, Vertrauen)
+
+## Spannungseskalation
+- **Persönliche Stakes:** Sorgen und Ängste
+- **Gruppenstakes:** Teamzerfall droht
+- **Existenzielle Stakes:** Verlieren wir uns?
+- **Spannungslevel:** 8/10
+
+## Cliffhanger-Strategie
+- **Cliffhanger-Typ:** Crisis Cliffhanger
+- **Details:** "Finden wir Aria jemals wieder?" - Intensive Sorge und Schuldgefühle.
+
+
 # Grober Ablauf
 
 - Die Protagonisten kommen nicht weiter und wollen schon fast aufgeben
 - Samuel erscheint und macht ihnen Mut, weiterzumachen
-- Sie können den letzten Teil der Karte nicht finden - ein wichtiges Puzzlestück fehlt
+- Sie kommen an einem Rätsel des Kartenwürfels nicht weiter
 - Die Vorräte neigen sich dem Ende zu, was zusätzlichen Stress verursacht
 - Es entsteht ein größerer Konflikt zwischen Maya und Diego über die weitere Vorgehensweise
 - Maya will weiter systematisch suchen, Diego drängt auf schnellere Aktionen

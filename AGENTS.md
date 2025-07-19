@@ -39,7 +39,7 @@ Für die Tage "Fr. 08." und "So. 10." sind Workshops geplant, wo es auch Theater
 Jugendliche werden ins Spiel gesogen, bekommen Superkräfte. Ein mysteriöser Wächter erklärt: "Um nach Hause zu kommen, müsst ihr das Tor der wahren Stärke finden."
 
 **Struktur:**
-- **Dschungel-Reise:** Verschiedene Prüfungen sammeln Karten-Fragmente und bereiten auf das Tor vor
+- **Dschungel-Reise:** Verschiedene Prüfungen bereiten auf das Tor vor
 - **Tor-Finale:** Sie müssen beweisen, was sie auf der Reise gelernt haben. Es stellt sich heraus, dass Samuel der einzige ist, der das Tor öffnen kann.
 
 **Mysteriöse Elemente:**
@@ -54,7 +54,22 @@ Die Protagonisten bekommen durch das Eingesogen-werden spezielle individuelle F�
 
 ## Charaktere
 
+Die wichtigsten Charaktere sind:
+- **Maya** - Die Anführerin
+- **Karl** - Der Technik-Experte
+- **Aria** - Die Pfadfinderin und Heilerin
+- **Diego** - Der Beschützer
+- **Samuel** - Der mysteriöse Wächter und Mentor
+
 Für eine ausführliche Beschreibung der Charaktere, siehe `Charaktere.md`
+
+## Wichtige Gegenstände
+
+- **Der Kartenwürfel:** Eine Zauberwürfel (RubicsCube), der statt Farben eine Karte auf den Flächen hat, die die Protagonisten durch den Dschungel führt. Er enthält Rätsel und Hinweise, die gelöst werden müssen, um das Tor der wahren Stärke zu finden. Außerdem kann die Gruppe den Würfel nutzen, um Samuel zu rufen, wenn sie in Not sind. Dafür müssen sie den Würfel allerdings in eine Stellung bringen, wo alle Seiten des Würfels wieder durcheinander sind und damit die Karte nicht mehr lesbar ist.
+
+## Interaktive Elemente
+
+Die Theaterstücke sind so gestaltet, dass sie interaktive Elemente enthalten, die das Publikum aktiv einbeziehen. Das passiert meistens, indem der Techniker, der bei der Einsaugung der Kinder dabei war, die Szene per Fernbedinung "pausiert" (alle Protagonisten frieren ein) und dann das Publikum mit einbezieht. Das Publikum kann dann beispielsweise Fragen beantworten, Entscheidungen treffen oder kleine Rätsel lösen.
 
 ## Entwicklungsstand
 

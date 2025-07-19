@@ -4,6 +4,25 @@ BA 3: Jesus ist stärker als die Natur (Klimawandel) (Jannik)
 - **Vers des Tages:** 1. Mose 8,22
 - **Zielgedanke:** Auch wenn die Natur (z. B. Klimawandel) eine ernsthafte Bedrohung ist – Jesus ist stärker und hat alles unter Kontrolle.
 
+# Spannungsbogen
+
+## Übergeordnete Struktur
+- **Akt II: Confrontation** - "Die Prüfungen" (BA3)
+- **Ziel:** Hindernisse eskalieren, Gruppe wird getestet
+- **Spannungsfrage:** "Schaffen wir es überhaupt?"
+- **Stakes:** Interpersonal (Teamkonflikte, Vertrauen)
+
+## Spannungseskalation
+- **Persönliche Stakes:** Überforderung (Aria)
+- **Gruppenstakes:** Vertrauen erschüttert
+- **Existenzielle Stakes:** Reichen unsere Kräfte?
+- **Spannungslevel:** 6/10
+
+## Cliffhanger-Strategie
+- **Cliffhanger-Typ:** Emotional Cliffhanger
+- **Details:** "Aria läuft weg - wird sie zurückkommen?" - Sorge um Aria motiviert Publikum.
+
+
 # Grober Ablauf
 
 - Das Team steht vor einem sehr breiten Fluss und weiß nicht, wie sie hinüberkommen sollen

@@ -55,34 +55,34 @@ Dieses Dokument definiert den übergeordneten Spannungsbogen der Theaterserie mi
 ### Cliffhanger-Typen pro Szene
 
 **BA1 - Revelatory Cliffhanger:**
-- **Setup:** Karl entdeckt erste Rätsel auf der Karte
+- **Setup:** Karl entdeckt erste Rätsel auf der Kartenwürfel
 - **Cliffhanger:** "Was bedeuten diese seltsamen Symbole?"
-- **Hook für nächsten Tag:** Kinder spekulieren über Karten-Geheimnisse
+- **Hook für nächsten Tag:** Kinder spekulieren über Kartenwürfel-Geheimnisse
 
 **BA2 - Mystery Cliffhanger:**
 - **Setup:** Team entdeckt, dass Samuel der Spielentwickler ist
 - **Cliffhanger:** "Warum ist der Programmierer selbst im Spiel gefangen?"
 - **Hook für nächsten Tag:** Diskussion über Samuels wahre Natur
 
+**GoDi1 - Emotional Cliffhanger:**
+- **Setup:** Nach Aria's Heilung verschlechtert sich eine Wunde dramatisch
+- **Cliffhanger:** "Aria läuft weg - wird sie zurückkommen?"
+- **Hook für nächsten Tag:** Sorge um Aria motiviert Publikum
+
 **BA3 - Decisive Cliffhanger:**
 - **Setup:** Karl's Floß scheitert, Samuel schlägt unmögliche Lösung vor
 - **Cliffhanger:** "Können Steine wirklich schwimmen? Vertrauen wir Samuel?"
 - **Hook für nächsten Tag:** Publikum soll abstimmen
 
-**GoDi1 - Emotional Cliffhanger:**
-- **Setup:** Aria's Heilung verschlechtert sich dramatisch
-- **Cliffhanger:** "Aria läuft weg - wird sie zurückkommen?"
-- **Hook für nächsten Tag:** Sorge um Aria motiviert Publikum
-
 **BA4 - Physical Cliffhanger:**
-- **Setup:** Diego kann den Stein nicht bewegen
-- **Cliffhanger:** "Wie kommen wir durch die versperrte Höhle?"
+- **Setup:** Diego kann den Stein nicht bewegen, Karl findet Mechanismus
+- **Cliffhanger:** "Welchen Mechanismus hat Karl gefunden?"
 - **Hook für nächsten Tag:** Gemeinsame Problemlösung nötig
 
 **BA5 - Relationship Cliffhanger:**
 - **Setup:** Maya und Diego streiten heftig
-- **Cliffhanger:** "Zerbricht das Team jetzt endgültig?"
-- **Hook für nächsten Tag:** Publikum macht sich Sorgen um Gruppenzusammenhalt
+- **Cliffhanger:** "Sollen wir unseren Kartenwürfel zerstören um Samuel zur Hilfe zur Rufen?"
+- **Hook für nächsten Tag:** Publikum fragt sich, ob es sich lohnt, eigene Erfolge aufzugeben
 
 **BA6 - Crisis Cliffhanger:**
 - **Setup:** Aria verschwindet durch Gruppenversagen
@@ -136,16 +136,16 @@ Dieses Dokument definiert den übergeordneten Spannungsbogen der Theaterserie mi
 **GoDi2:** Samuel "stirbt" - größte Krise
 **BA7:** Samuel kehrt zurück - Enthüllung seiner wahren Natur als Erlöser
 
-### Karten-Geheimnis (Neben-Mystery):
+### Kartenwürfel-Geheimnis (Neben-Mystery):
 
-**BA1:** Karl erhält Karte mit Rätseln
+**BA1:** Karl erhält Kartenwürfel mit Rätseln
 **BA2:** Erste Entschlüsselungsversuche scheitern
-**BA3:** Karte führt zu schwimmenden Steinen - funktioniert mysteriös
-**GoDi1:** Karte zeigt Heilpflanzen - mehr als nur Navigation
-**BA4:** Karte offenbart versteckte Mechanismen
-**BA5:** Kartenfragment fehlt - Sackgasse
+**BA3:** Kartenwürfel führt zu schwimmenden Steinen - funktioniert mysteriös
+**GoDi1:** Kartenwürfel zeigt Heilpflanzen - mehr als nur Navigation
+**BA4:** Kartenwürfel offenbart versteckte Mechanismen
+**BA5:** Ein Rätsel des Kartenwürfels scheit unlösbar
 **BA6:** Neue Kartenfragmente durch Teamarbeit
-**GoDi2:** Karte scheint nutzlos ohne Samuel
+**GoDi2:** Kartenwürfel scheint nutzlos ohne Samuel
 **BA7:** Karl wirft System weg - Vertrauen statt Logik
 
 ---

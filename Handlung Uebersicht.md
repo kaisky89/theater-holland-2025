@@ -5,9 +5,9 @@
 -	Teilnehmer sind bei Spielfirma zum Testen des Spiels
 -	Werden ins Spiel gezogen
 -	Treffen Samuel; er erklärt, dass jeder eine bestimmte Fähigkeit hat
--	Samuel gibt ihnen den ersten Teil der Karte; gibt Hinweis, der er jederzeit zur Hilfe bereit ist
+-	Samuel gibt ihnen den ungelösten Kartenwürfel; gibt Hinweis, dass er jederzeit zur Hilfe bereit ist und dass sie ihn über eine bestimmte Stellung des Würfels rufen können
 -	Das Team glaubt, sie müssen es alleine schaffen
--	Karl liebt Rätsel, hat aber immer wieder Probleme die Karte zu entschlüsseln
+-	Karl liebt Rätsel, hat aber immer wieder Probleme den Kartenwürfel zu entschlüsseln
 -	Maya geht immer voran und die anderen folgen ihr
 
 # BA 2 (Start von Jesus)
@@ -37,7 +37,7 @@
 
 # BA 5 (Sorgen)
 -	Die Protagonisten kommen nicht weiter und wollen schon fast aufgeben, da macht Samuel ihnen Mut
--	Sie finden den letzten Teil der Karte nicht
+-	Sie kommen an einem Rätsel des Kartenwürfels nicht weiter
 -	Die Vorräte neigen sich dem Ende
 -	Uneinigkeit zwischen Maya und Diego (größerer Konflikt)
 -	Aria macht sich Sorgen um das Team; erzählt es Karl (der versteht es nicht?)

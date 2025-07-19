@@ -4,6 +4,26 @@ BA 4: Jesus ist stärker als die Ansprüche der Welt (Janis)
 - **Vers des Tages:** Markus 10,43
 - **Zielgedanke:** Bei Jesus gelten andere Maßstäbe. Wir müssen nicht die Coolsten, Größten oder Besten sein.
 
+
+# Spannungsbogen
+
+## Übergeordnete Struktur
+- **Akt II: Confrontation** - "Die Prüfungen" (BA4)
+- **Ziel:** Hindernisse eskalieren, Gruppe wird getestet
+- **Spannungsfrage:** "Schaffen wir es überhaupt?"
+- **Stakes:** Interpersonal (Teamkonflikte, Vertrauen)
+
+## Spannungseskalation
+- **Persönliche Stakes:** Versagen (Diego)
+- **Gruppenstakes:** Erste große Krise
+- **Existenzielle Stakes:** Sind wir stark genug?
+- **Spannungslevel:** 7/10
+
+## Cliffhanger-Strategie
+- **Cliffhanger-Typ:** Physical Cliffhanger
+- **Details:** "Welchen Mechanismus hat Karl gefunden?" - Gemeinsame Problemlösung nötig.
+
+
 # Grober Ablauf
 
 - Diego bekommt die Gelegenheit, seine Kraft zu beweisen und ist zunächst erfolgreich

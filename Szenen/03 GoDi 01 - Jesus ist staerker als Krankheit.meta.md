@@ -4,6 +4,25 @@ Godi 1: Jesus ist stärker als Krankheit (Amy W, Dennis)
 - **Vers des Tages:** Matthäus 9,35
 - **Zielgedanke:** Jesus ist stärker als die Krankheit und kann heilen. Aber es scheint auch höhere Ziele zu geben, nämlich dass Gottes Macht sichtbar wird.
 
+# Spannungsbogen
+
+## Übergeordnete Struktur
+- **Akt II: Confrontation** - "Die Prüfungen" (BA3)
+- **Ziel:** Hindernisse eskalieren, Gruppe wird getestet
+- **Spannungsfrage:** "Schaffen wir es überhaupt?"
+- **Stakes:** Interpersonal (Teamkonflikte, Vertrauen)
+
+## Spannungseskalation
+- **Persönliche Stakes:** Überforderung (Aria)
+- **Gruppenstakes:** Vertrauen erschüttert
+- **Existenzielle Stakes:** Reichen unsere Kräfte?
+- **Spannungslevel:** 6/10
+
+## Cliffhanger-Strategie
+- **Cliffhanger-Typ:** Emotional Cliffhanger
+- **Details:** "Aria läuft weg - wird sie zurückkommen?" - Sorge um Aria motiviert Publikum.
+
+
 # Grober Ablauf
 
 - Einer der Protagonisten wird verletzt (schwerer als die bisherigen kleinen Kratzer)
@@ -18,7 +37,7 @@ Godi 1: Jesus ist stärker als Krankheit (Amy W, Dennis)
 ## Charakterentwicklung
 
 **KARL - Hook (Fortsetzung):**
-- Weitere Rätselversuche auf der Karte
+- Weitere Rätselversuche auf dem Kartenwürfel
 - Navigation der Gruppe mit anhaltenden Problemen
 - Versucht logische Lösungen für die medizinische Krise zu finden
 

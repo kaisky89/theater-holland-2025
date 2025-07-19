@@ -4,6 +4,29 @@ BA 2: Der Start von Jesus (Marvin)
 - **Vers des Tages:** Markus 1,11
 - **Zielgedanke:** Die Kinder wissen, wie es mit Jesus begonnen hat und verstehen, dass Jesus jemand ganz Besonderes ist – zugleich Sohn eines Menschen und Sohn Gottes.
 
+# Spannungsbogen
+
+## Übergeordnete Struktur
+- **Akt II: Confrontation** - "Die Prüfungen" (BA2)
+- **Ziel:** Hindernisse eskalieren, Gruppe wird getestet
+- **Spannungsfrage:** "Schaffen wir es überhaupt?"
+- **Stakes:** Interpersonal (Teamkonflikte, Vertrauen)
+
+## Spannungseskalation
+- **Persönliche Stakes:** Superkräfte verstehen
+- **Gruppenstakes:** Rollenfindung
+- **Existenzielle Stakes:** Wer ist Samuel?
+- **Spannungslevel:** 4/10
+
+## Cliffhanger-Strategie
+- **Cliffhanger-Typ:** Mystery Cliffhanger
+- **Details:** "Warum ist der Programmierer selbst im Spiel gefangen?" - Diskussion über Samuels wahre Natur.
+
+## Micro-Tension-Elemente
+- Publikums-Votes: "Was sollen wir machen?"
+- Mini-Rätsel: Kurze Denkaufgaben für Publikum.
+- Emotionale Beats: Charaktere zeigen Selbstbewusstsein/Unsicherheit.
+
 # Grober Ablauf
 
 - Es gibt erste Übungen für die Kinder, ihre Superkräfte zu entdecken und einzusetzen.
@@ -22,9 +45,9 @@ BA 2: Der Start von Jesus (Marvin)
 - Ihre dominante Art funktioniert gut und wird von anderen akzeptiert
 
 **KARL - Hook (Fortsetzung):**
-- Fortsetzung der Karten-Navigation, Gruppe verläuft sich weiterhin
+- Fortsetzung der Kartenwürfel-Navigation, Gruppe verläuft sich weiterhin
 - Findet durch seine analytischen Fähigkeiten Hinweise auf Samuel als Spielentwickler
-- Versucht weiterhin die Rätsel auf der Karte zu lösen
+- Versucht weiterhin die Rätsel auf dem Kartenwürfel zu lösen
 
 **ARIA - Hook (Beginn ihres Arcs):**
 - Erste Heilungsszene: heilt Diegos Kratzer

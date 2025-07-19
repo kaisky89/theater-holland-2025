@@ -16,14 +16,14 @@ Dieses Dokument verteilt die einzelnen Charakter-Arcs auf die Tage der Theaterse
   - BA5 (Sorgen) – Climax: Größerer Konflikt mit Diego. Überwindet sich, die Kontrolle abzugeben.
 
 ### KARL
-Erhält zu Beginn die Karte von Samuel, in denen er viele Rätsel entdeckt und andaurnd versucht sie zu lösen. Er navigiert außerdem die Gruppe mithilfe der Karte, hat aber immer wieder Probleme, die Karte richtig zu deuten und die Gruppe verläuft sich häufiger.
+Erhält zu Beginn den Kartenwürfel von Samuel, in denen er viele Rätsel entdeckt und andaurnd versucht sie zu lösen. Er navigiert außerdem die Gruppe mithilfe des Kartenwürfels, hat aber immer wieder Probleme, den Würfel richtig zu deuten und die Gruppe verläuft sich häufiger.
 - Ausgangszustand: Versteht die Welt rein logisch und technisch
 - Schwäche: Zögert, wenn etwas nicht erklärbar ist
 - Ziel: Begreifen, dass Vertrauen manchmal wichtiger ist als Verstehen
 - Wendepunkte:
-  - BA1 & BA2 & GoDi1 – Hook: hat Probleme, die Karte korrekt zu deuten, versucht immer wieder Rätsel auf der Karte zu lösen
+  - BA1 & BA2 & GoDi1 – Hook: hat Probleme, den Kartenwürfel korrekt zu deuten, versucht immer wieder Rätsel auf dem Würfel zu lösen
   - BA3 (Natur) – Midpoint: Idee mit Floß über Wasser -> funktioniert nicht. Samuel schlägt vor, Steine/Bananenblätter zu nehmen. Karl überwindet seine Logik und vertraut auf Samuel
-  - BA7 (Alleinsein) – Climax: hat ein System für die Entschlüsseling der Karte entwickelt. Am Ende schmeißt er das System (oder die Karte) weg und hört auf Samuel
+  - BA7 (Alleinsein) – Climax: hat ein System für die Entschlüsseling des Würfels entwickelt. Am Ende schmeißt er den Würfel weg und hört auf Samuel
 
 ### ARIA
 - Ausgangszustand: Mitfühlend, sensibel, vernachlässigt eigene Grenzen
@@ -54,11 +54,11 @@ MAYA      | BA2   | Start von Jesus | Hook (fortgesetzt) | alle folgen ihrer Fü
 MAYA      | BA3   | Natur    | First Turning Pt | lernt Samuel/Team zu vertrauen trotz anderer Meinung
 MAYA      | BA5   | Sorgen   | Climax           | größerer Konflikt mit Diego, gibt Kontrolle ab
 ||||
-KARL      | BA1   | Zufall   | Hook             | Probleme Karte zu deuten, versucht Rätsel zu lösen
-KARL      | BA2   | Start von Jesus | Hook (fortgesetzt) | Karten-Navigation, Gruppe verläuft sich
-KARL      | GoDi1 | Krankheit| Hook (fortgesetzt) | weitere Rätselversuche auf der Karte
+KARL      | BA1   | Zufall   | Hook             | Probleme Kartenwürfel zu deuten, versucht Rätsel zu lösen
+KARL      | BA2   | Start von Jesus | Hook (fortgesetzt) | Kartenwürfel-Navigation, Gruppe verläuft sich
+KARL      | GoDi1 | Krankheit| Hook (fortgesetzt) | weitere Rätselversuche auf dem Kartenwürfel
 KARL      | BA3   | Natur    | Midpoint         | Floß-Idee scheitert, vertraut Samuel trotz Logik
-KARL      | BA7   | Alleinsein | Climax         | wirft System/Karte weg, hört auf Samuel
+KARL      | BA7   | Alleinsein | Climax         | wirft Kartenwürfel weg, hört auf Samuel
 ||||
 ARIA      | BA2   | Start von Jesus | Hook      | heilt kleine Wunde, nervös/unsicher/überfordert
 ARIA      | GoDi1 | Krankheit| First Turning Pt | Heilung wird schlimmer, ist überfordert, läuft weg
