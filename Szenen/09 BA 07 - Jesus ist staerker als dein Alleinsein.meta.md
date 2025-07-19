@@ -45,13 +45,16 @@ BA 7: Jesus ist stärker als dein Alleinsein (Janosch)
 
 - Aria ist alleine unterwegs und muss den Weg zu den anderen wiederfinden
 - Sie findet die anderen schließlich wieder - eine emotionale Wiedervereinigung
-- Samuel taucht auf und spricht Aria Vergebung aus für alles was passiert ist
 - Karl hat sich in der Zwischenzeit ein Entschlüsselungssystem für den Kartenwürfel gebaut
-- Am Ende verlässt sich Karl auf Samuels Worte statt nur auf sein System
-- Das Team entdeckt die wichtige Erkenntnis: Nur Samuel kann sie aus dem Spiel rausholen
-- Sie verstehen, dass sie von Anfang an auf Samuel angewiesen waren
-- Die Reise endet mit der Erkenntnis, dass wahre Stärke im Vertrauen auf Samuel liegt
-- Niemand muss den Weg alleine gehen - Samuel ist immer da
+- Sie finden das Tor der wahren Stärke, aber es ist verschlossen
+- Für jeden Charakter gibt es einen Schlüsselloch, die Charaktere haben unterschiedliche Schlüssel, die sie bei ihrem charakterlichen Climax erhalten haben
+- Sie merken, dass noch ein Schlüssel fehlt - der von Samuel
+- Obwohl sie denken, dass Samuel tot ist, dreht Karl den Kartenwürfel und Samuel erscheint.
+- Samuel taucht auf und spricht Aria Vergebung aus für alles was passiert ist
+- Er löst (zum Erstaunen von Karl) den Würfel
+- Er öffnet das Tor und sie können nach Hause gehen
+- Am Ende sieht Karl, dass Samuel den Würfel selbst viel besser entschlüsseln kann als er selbst
+
 
 ## Charakterentwicklung
 
@@ -68,10 +71,10 @@ BA 7: Jesus ist stärker als dein Alleinsein (Janosch)
 **KARL - Climax:**
 - Finaler Höhepunkt und Abschluss seines Arcs
 - Hat ein komplettes Entschlüsselungssystem für den Kartenwürfel entwickelt
-- Am Ende schmeißt er den Kartenwürfel weg
-- Hört stattdessen auf Samuel und vertraut dessen Worten
+- Am Ende ist er bereit, den gelösten Kartenwürfel wieder zu verändern, um Samuel zu rufen
+- Überlässt Samuel den Würfel und sieht, wie dieser ihn viel besser entschlüsseln kann
 - Lernt, dass Vertrauen wichtiger ist als Verstehen
-- Seine größte Lektion: Nicht alles muss logisch erklärbar sein
+- Seine größte Lektion: Nicht alle Rätsel müssen von ihm gelöst werden
 - Gibt seine Kontrolle durch Wissen auf und vertraut vollständig
 
 **MAYA:**

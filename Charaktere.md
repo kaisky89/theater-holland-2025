@@ -1,5 +1,14 @@
 # Hauptcharaktere für "Die Unglaublichen - Abenteuer im Dschungel"
 
+Marvin -> Samuel
+Anna -> Maya
+Pia -> Aria
+Fynn -> Diego
+Janosch -> Karl
+
+Kai -> Techniker
+Jasmin -> Tiger
+
 ## Die 5 Protagonisten
 
 ### 1. **MAYA** - Die Anführerin
@@ -8,15 +17,13 @@
 - **Superkraft:** **Super-Geschwindigkeit** - Kann sich blitzschnell bewegen, schnell Hilfe holen, Fallen ausweichen
 - **Schwäche:** Vertraut manchmal zu sehr auf ihre eigene Stärke, handelt manchmal zu schnell ohne nachzudenken
 - **Charakterentwicklung:** Lernt, dass echte Führung bedeutet, andere zu ermutigen und Gottes Führung zu vertrauen - manchmal muss man auch langsamer werden
-- **Bibelvers-Bezug:** "Ich kann alles durch Christus, der mich stärkt" (Philipper 4,13)
 
 ### 2. **KARL** - Der Technik-Experte
 - **Alter:** 15 Jahre
 - **Persönlichkeit:** Clever, erfinderisch, etwas schüchtern, liebt Rätsel und Geheimnisse
-- **Superkraft:** **Technologie-Manipulation** - Kann defekte Geräte reparieren, Signale verstärken, elektronische Fallen überwinden
+- **Superkraft:** **Rätsel lösen** - Kann komplexe Rätsel und Geheimnisse entschlüsseln, versteckte Muster erkennen, knifflige Probleme durchschauen
 - **Schwäche:** Überlegt manchmal zu viel, statt zu handeln; verlässt sich zu sehr auf Logik
 - **Charakterentwicklung:** Lernt, dass nicht alles erklärbar ist und Vertrauen manchmal wichtiger als Verstehen
-- **Bibelvers-Bezug:** "Verlass dich auf den Herrn von ganzem Herzen" (Sprüche 3,5)
 
 ### 3. **ARIA** - Die Pfadfinderin und Heilerin
 - **Alter:** 13 Jahre
@@ -24,7 +31,6 @@
 - **Superkraft:** **Super-Sinne & Spurenlesen, Heilung und Trost** - Hört/riecht/sieht außergewöhnlich scharf, kann Wunden heilen, Schmerzen lindern und andere ermutigen
 - **Schwäche:** Wird manchmal von zu vielen Eindrücken überwältigt; nimmt sich die Probleme anderer zu sehr zu Herzen und vergisst dabei auf sich selbst zu achten
 - **Charakterentwicklung:** Lernt, dass der wichtigste Weg der ist, den Gott für sie bereitet hat, und dass sie nicht jeden retten kann, aber Gott für alle da ist.
-- **Bibelvers-Bezug:** "Deine Ohren sollen hören das Wort hinter dir her sagen: Dies ist der Weg, den geht!" (Jesaja 30,21)
 
 ### 4. **DIEGO** - Der Beschützer
 - **Alter:** 17 Jahre
@@ -32,10 +38,9 @@
 - **Superkraft:** **Übermenschliche Stärke** - Kann schwere Hindernisse bewegen, Barrieren durchbrechen
 - **Schwäche:** Denkt manchmal, er muss alles alleine schaffen; hat Angst, andere zu enttäuschen
 - **Charakterentwicklung:** Lernt, dass wahre Stärke auch bedeutet, verletzlich zu sein und Schwäche zuzugeben
-- **Bibelvers-Bezug:** "Wenn ich schwach bin, dann bin ich stark" (2. Korinther 12,10)
 
 ## Der mysteriöse Wächter: **SAMUEL**
-- **Rolle:** Mentor und Führer, erscheint in kritischen Momenten
+- **Rolle:** Mentor und Führer, erscheint in kritischen Momenten. Eigentliche Identität: Der Entwickler des Spiels.
 - **Persönlichkeit:** Weise, geheimnisvoll, gütig aber auch herausfordernd
 - **Superkraft:** Kann zwischen den Welten reisen, kennt die Geheimnisse des "Tors der wahren Stärke"
 - **Funktion:** Stellt den Jugendlichen Aufgaben, gibt Hinweise, verkörpert Gottes Führung

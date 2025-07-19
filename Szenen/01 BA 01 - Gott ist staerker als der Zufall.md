@@ -74,7 +74,7 @@ Das ist Teil des Rätsels.
 
 *BEGLEITMUSIK: leise mysteriöse Musik im Hintergrund.*
 
-SAMUEL *(gibt KARL einen bunten Würfel)*
+SAMUEL *(gibt KARL den Kartenwürfel)*
 Karl, dieser Kartenwürfel enthält Rätsel, die euch zum Tor führen. Hütet ihn gut. Und noch etwas Wichtiges: Wenn ihr Hilfe braucht, dreht den Würfel dreimal im Uhrzeigersinn – dann kann ich euch hören und zu euch kommen.
 
 KARL *(dreht Würfel in den Händen)*
@@ -84,7 +84,7 @@ SAMUEL
 Genau. Aber das ist noch nicht alles. Jeder von euch hat in dieser Welt besondere Fähigkeiten – Superkräfte, die euch helfen werden, eure Herausforderungen zu meistern.
 
 ARIA *(erstaunt)*
-Superkräfte? Wirklich?
+Superkräfte? Ernsthaft?
 
 SAMUEL
 Maya, du hast die Fähigkeit, dich blitzschnell zu bewegen - schnell Hilfe zu holen und Fallen auszuweichen. Karl, dein Verstand ist in der Lage, Rätsel zu lösen, die unmöglich erscheinen. Aria, du hast außergewöhnlich scharfe Sinne, die dir helfen, Spuren zu lesen und Wunden zu heilen. Und Diego – du hast übermenschliche Stärke, die dir ermöglicht, schwere Hindernisse zu bewegen und Barrieren zu durchbrechen.
