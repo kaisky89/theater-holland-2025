@@ -15,7 +15,7 @@
 - [x] **Tag-für-Tag Zuordnung:** Jeden BA-Tag einem Handlungsteil zuordnen
 - [x] **Charakterentwicklung verteilen:** Welcher Charakter wächst an welchem Tag?
 - [x] **BA-Themen Integration:** Bezug zu "Jesus ist stärker als..." herstellen
-- [ ] **Spannungsbogen definieren:** Cliffhanger und Wendepunkte planen
+- [x] **Spannungsbogen definieren:** Cliffhanger und Wendepunkte planen
 - [ ] **Publikumsinteraktion:** Interaktive Elemente pro Tag definieren
 
 ### Ergebnisse:

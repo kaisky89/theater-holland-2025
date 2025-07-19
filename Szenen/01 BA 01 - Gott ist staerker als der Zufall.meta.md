@@ -107,6 +107,43 @@ Die Gruppe bildet sich zum ersten Mal in der Spielwelt. Alle sind unsicher und o
 - Natürliche Anführer etablieren sich ohne Widerstand
 - Alle wollen sich von ihrer besten Seite zeigen
 
-# Umsetzung
+## Umsetzung
 
 - Die Bühne wird in 2 Teile geteilt: links die "reale Welt" mit der Filiale des Computerspieleherstellers, rechts die "Spielwelt" mit Dschungel
+
+## Publikumsinteraktion via "Technischer Defekt" (Engagement-Level Tage 1-2)
+
+**Timing:** Mitten in der Szene, wenn Karl gerade den Kartenwürfel erklärt bekommen hat
+
+**Ablauf des "Defekts":**
+1. **Szene läuft normal** - Karl hält den Kartenwürfel, Samuel erklärt die Mission
+2. **"Defekt" tritt ein:**
+   - Plötzlich flackert das Licht
+   - Alle Protagonisten frieren ein (Freeze-Pose)
+   - Störgeräusch aus den Lautsprechern
+3. **Techniker erscheint hastig auf der Bühne:**
+   - "Oh nein! Das Spiel ist abgestürzt!"
+   - "Moment, ich muss das System neu starten..."
+   - *(beginnt theatralisch an imaginären Reglern zu drehen)*
+4. **Publikum wird zum Beobachten eingeladen:**
+   - "Während ich das repariere... habt ihr gesehen, was gerade passiert ist?"
+   - "Wer von den vier Protagonisten hat den mysteriösen Würfel bekommen?" *(Publikum: "Karl!")*
+   - "Genau! Und was sollen sie finden?" *(Publikum: "Das Tor der wahren Stärke!")*
+   - "Richtig beobachtet! Und wer war dieser geheimnisvolle Wächter?" *(Publikum: "Samuel!")*
+5. **"Reparatur" abgeschlossen:**
+   - "Super, das System läuft wieder! Danke für eure Aufmerksamkeit!"
+   - Licht geht wieder normal an
+   - Protagonisten "erwachen" und setzen nahtlos fort
+
+**Funktion:**
+- Publikum wird als **aufmerksame Beobachter** etabliert
+- Wichtige Plot-Punkte werden **wiederholt und verankert**
+- Kinder fühlen sich **einbezogen ohne Entscheidungsdruck**
+- Techniker wird als **vertrauensvolle Figur** eingeführt
+- Passt perfekt zu Engagement-Level "beobachten und informiert werden"
+
+**Theatrale Umsetzung:**
+- Freeze-Effekt muss von allen Darstellern synchron ausgeführt werden
+- Techniker benötigt portable "Reparatur-Requisiten" (Tablet, Kabel, etc.)
+- Timing: ca. 60-90 Sekunden für gesamte Defekt-Sequenz
+- Licht- und Soundeffekte unterstützen die "Störung"
