@@ -19,17 +19,15 @@ Das Motiv für die Freizeit ist "Die Unglaublichen, Abenteuer im Dschungel". Es 
 - "Jesus ist stärker als der Tod"
 - "Jesus ist stärker als dein Alleinsein"
 
-Die Theaterstücke sollen die Kinder unterhalten und gleichzeitig die oben genannten Themen aufgreifen. Die Stücke sind so gestaltet, dass sie in einem Zeitraum von 5 Minuten bis 15 Minuten aufgeführt werden können. Die Kinder sollen aktiv in die Stücke eingebunden werden, indem sie beispielsweise als Statisten oder in kleinen Rollen mitspielen.
+Die Theaterstücke sollen die Kinder unterhalten und gleichzeitig die oben genannten Themen aufgreifen. Die Stücke sind so gestaltet, dass sie in einem Zeitraum von 5 Minuten bis 15 Minuten aufgeführt werden können. Die Kinder sollen aktiv in die Stücke eingebunden werden (siehe *Interaktive Elemente*).
 
 ## Gestalterischer Rahmen
 
-Die Theaterstücke sollen eine Geschichte erzählen, die sich über die gesamte Freizeit erstreckt. Die Handlung soll spannend und unterhaltsam sein, aber auch die christlichen Werte und Themen aufgreifen. Neben den Theaterstücken an sich können auch kleine Aktionen oder Spiele geplant werden, die während der Freizeit stattfinden und die Geschichte aufgreifen oder ergänzen. Diese Aktionen können beispielsweise kleine Rätsel, Schatzsuchen oder andere interaktive Elemente sein, die die Kinder in die Handlung einbeziehen.
+Die Theaterstücke sollen eine Geschichte erzählen, die sich über die gesamte Freizeit erstreckt. Die Handlung soll spannend und unterhaltsam sein, aber auch die christlichen Werte und Themen aufgreifen.
 
 - Für den Zeitplan, siehe `Zeitplan.md`
 - Für die Bibelarbeiten, siehe `Bibelarbeiten.md`
-- **Für den aktuellen Entwicklungsstand, siehe `Drehbuch-Entwicklungsplan.md`**
-
-Für die Tage "Fr. 08." und "So. 10." sind Workshops geplant, wo es auch Theater-Workshops geben wird. In diesem Workshop können die Kinder eine kleine Rolle lernen, die sie dann in den anschließenden Theaterstücken übernehmen können.
+- Für den aktuellen Entwicklungsstand, siehe `Drehbuch-Entwicklungsplan.md`
 
 ## Haupthandlung
 
