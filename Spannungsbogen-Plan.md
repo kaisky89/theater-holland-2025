@@ -144,7 +144,7 @@ Dieses Dokument definiert den übergeordneten Spannungsbogen der Theaterserie mi
 **GoDi1:** Kartenwürfel zeigt Heilpflanzen - mehr als nur Navigation
 **BA4:** Kartenwürfel offenbart versteckte Mechanismen
 **BA5:** Ein Rätsel des Kartenwürfels scheit unlösbar
-**BA6:** Neue Kartenfragmente durch Teamarbeit
+**BA6:** Neue Kartenwürfel Lösungen durch Teamarbeit
 **GoDi2:** Kartenwürfel scheint nutzlos ohne Samuel
 **BA7:** Karl wirft System weg - Vertrauen statt Logik
 

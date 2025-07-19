@@ -23,6 +23,22 @@ BA 6: Jesus ist stärker als deine Schuld (Dennis)
 - **Cliffhanger-Typ:** Crisis Cliffhanger
 - **Details:** "Finden wir Aria jemals wieder?" - Intensive Sorge und Schuldgefühle.
 
+## Mystery Revelation Timeline
+### Samuel-Geheimnis (Haupt-Mystery):
+**BA6:** Samuel als Retter in der Not
+- Samuel sucht und rettet die verschwundene Aria aus einer gefährlichen Situation
+- Zeigt seine Rolle als derjenige, der die Verlorenen findet und rettet
+- Team erkennt, dass Samuel immer da ist, wenn sie ihn wirklich brauchen
+- Mystery vertieft sich: "Wie kann Samuel immer zur richtigen Zeit am richtigen Ort sein?"
+- Vorbereitung auf seine größte Rettungstat und seinen "Tod"
+
+### Kartenwürfel-Geheimnis (Neben-Mystery):
+**BA6:** Neue Kartenwürfel Lösungen durch Teamarbeit
+- Durch die gemeinsame Suche nach Aria entdeckt das Team neue Aspekte des Kartenwürfels
+- Teamarbeit und gemeinsame Verantwortung führen zu neuen Erkenntnissen
+- Erste Hinweise, dass der Würfel auf Gemeinschaft und Vertrauen reagiert
+- Mystery entwickelt sich: "Funktioniert der Würfel besser, wenn wir zusammenarbeiten?"
+- Vorbereitung auf Karl's finale Entscheidung, das System aufzugeben
 
 # Grober Ablauf
 

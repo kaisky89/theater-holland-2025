@@ -19,8 +19,25 @@ BA 3: Jesus ist stärker als die Natur (Klimawandel) (Jannik)
 - **Spannungslevel:** 6/10
 
 ## Cliffhanger-Strategie
-- **Cliffhanger-Typ:** Emotional Cliffhanger
-- **Details:** "Aria läuft weg - wird sie zurückkommen?" - Sorge um Aria motiviert Publikum.
+- **Cliffhanger-Typ:** Decisive Cliffhanger
+- **Details:** "Können Steine wirklich schwimmen? Vertrauen wir Samuel?" - Publikum soll abstimmen.
+
+## Mystery Revelation Timeline
+### Samuel-Geheimnis (Haupt-Mystery):
+**BA3:** Samuel zeigt unmögliche Kräfte (schwimmende Steine)
+- Samuel schlägt unmögliche Lösung vor: Steine, die schwimmen können
+- Zeigt übernatürliche Fähigkeiten, die den Naturgesetzen widersprechen
+- Team muss entscheiden, ob sie Samuel trotz seiner unlogischen Idee vertrauen
+- Mystery vertieft sich: "Welche Macht hat Samuel über die Natur?"
+- Erste deutliche Anzeichen seiner göttlichen/übernatürlichen Natur
+
+### Kartenwürfel-Geheimnis (Neben-Mystery):
+**BA3:** Kartenwürfel führt zu schwimmenden Steinen - funktioniert mysteriös
+- Kartenwürfel führt das Team zu der Stelle, wo Samuel die schwimmenden Steine zeigt
+- Karl's logischer Floß-Ansatz scheitert, aber der Würfel führt zur mystischen Lösung
+- Erster Hinweis, dass der Würfel mit Samuel's übernatürlichen Kräften verbunden ist
+- Mystery entwickelt sich: "Ist der Würfel mehr als nur ein Werkzeug?"
+- Erste Verbindung zwischen Kartenwürfel und Samuel's unmöglichen Lösungen
 
 
 # Grober Ablauf

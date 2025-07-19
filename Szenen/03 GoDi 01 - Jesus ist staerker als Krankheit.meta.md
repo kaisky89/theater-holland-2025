@@ -22,6 +22,23 @@ Godi 1: Jesus ist stärker als Krankheit (Amy W, Dennis)
 - **Cliffhanger-Typ:** Emotional Cliffhanger
 - **Details:** "Aria läuft weg - wird sie zurückkommen?" - Sorge um Aria motiviert Publikum.
 
+## Mystery Revelation Timeline
+### Samuel-Geheimnis (Haupt-Mystery):
+**GoDi1:** Samuel kann heilen, was andere nicht können
+- Samuel erscheint mit besonderer Medizin, die Arias Fähigkeiten übertrifft
+- Er zeigt Heilkräfte, die unmöglich erscheinen
+- Team beginnt zu verstehen, dass Samuel mehr kann als sie dachten
+- Mystery vertieft sich: "Welche besonderen Kräfte hat Samuel wirklich?"
+- Erste Hinweise auf seine übernatürliche Natur
+
+### Kartenwürfel-Geheimnis (Neben-Mystery):
+**GoDi1:** Kartenwürfel zeigt Heilpflanzen - mehr als nur Navigation
+- Kartenwürfel führt das Team zu heilenden Pflanzen für die erste Behandlung
+- Zeigt, dass der Würfel mehr Informationen enthält als nur Wegbeschreibungen
+- Karl entdeckt neue Schichten von Rätseln und Symbolen
+- Mystery entwickelt sich: "Woher weiß der Würfel von Heilpflanzen?"
+- Erste Anzeichen, dass der Würfel magische oder übernatürliche Eigenschaften hat
+
 
 # Grober Ablauf
 

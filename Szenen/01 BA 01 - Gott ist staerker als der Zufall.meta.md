@@ -31,6 +31,22 @@ BA 1: Gott ist stärker als der Zufall (Janosch)
 - Mini-Rätsel: Kurze Denkaufgaben für Publikum.
 - Emotionale Beats: Charaktere zeigen Schwäche/Stärke.
 
+## Mystery Revelation Timeline
+### Samuel-Geheimnis (Haupt-Mystery):
+**BA1:** Samuel als mysteriöser Wächter eingeführt
+- Samuel erscheint als geheimnisvoller Wächter des Dschungels
+- Erklärt die Mission: "Tor der wahren Stärke finden"
+- Gibt erste Hinweise auf seine besondere Rolle
+- Publikum fragt sich: "Wer ist dieser Samuel wirklich?"
+
+### Kartenwürfel-Geheimnis (Neben-Mystery):
+**BA1:** Karl erhält Kartenwürfel mit Rätseln
+- Samuel übergibt Karl den ungelösten Kartenwürfel
+- Erste Rätsel und Symbole sind sichtbar, aber unverständlich
+- Karl hat Probleme bei der Entschlüsselung
+- Hinweis, dass der Würfel Samuel rufen kann, wenn alle Seiten durcheinander sind
+- Mystery-Hook: "Was bedeuten diese seltsamen Symbole?"
+
 # Grober Ablauf
 
 - Die Protagonisten (kennen sich nur vom sehen aus der Schule) kommen zur Premiere eines neuen Computerspiels in der Stadt, sind die ersten, die das Spiel spielen dürfen.

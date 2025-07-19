@@ -27,6 +27,23 @@ BA 2: Der Start von Jesus (Marvin)
 - Mini-Rätsel: Kurze Denkaufgaben für Publikum.
 - Emotionale Beats: Charaktere zeigen Selbstbewusstsein/Unsicherheit.
 
+## Mystery Revelation Timeline
+### Samuel-Geheimnis (Haupt-Mystery):
+**BA2:** Enthüllung: Samuel ist auch der Spielentwickler
+- Karl findet Hinweise (durch Uhr mit Internetverbindung), die auf Samuel als Entwickler hindeuten
+- Er erinnert sich an Informationen über Samuel aus der realen Welt
+- Team entdeckt: Samuel ist sowohl Wächter im Spiel als auch Programmierer
+- Mystery vertieft sich: "Warum ist der Programmierer selbst im Spiel gefangen?"
+- Publikum spekuliert über Samuels wahre Natur und Motivation
+
+### Kartenwürfel-Geheimnis (Neben-Mystery):
+**BA2:** Erste Entschlüsselungsversuche scheitern
+- Karl versucht weiterhin, die Rätsel auf dem Kartenwürfel zu lösen
+- Navigation der Gruppe mit anhaltenden Problemen - sie verlaufen sich häufiger
+- Kartenwürfel zeigt mehr Komplexität als anfangs gedacht
+- Erste Hinweise, dass der Würfel mehr ist als nur ein Navigationswerkzeug
+- Mystery entwickelt sich: "Warum sind die Rätsel so schwer zu lösen?"
+
 # Grober Ablauf
 
 - Es gibt erste Übungen für die Kinder, ihre Superkräfte zu entdecken und einzusetzen.

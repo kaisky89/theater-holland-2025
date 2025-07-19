@@ -20,9 +20,25 @@ BA 5: Jesus ist stärker als deine Sorgen / kümmert sich um dich (Mona)
 - **Spannungslevel:** 8/10
 
 ## Cliffhanger-Strategie
-- **Cliffhanger-Typ:** Crisis Cliffhanger
-- **Details:** "Finden wir Aria jemals wieder?" - Intensive Sorge und Schuldgefühle.
+- **Cliffhanger-Typ:** Relationship Cliffhanger
+- **Details:** "Sollen wir unseren Kartenwürfel zerstören um Samuel zur Hilfe zur Rufen?" - Publikum fragt sich, ob es sich lohnt, eigene Erfolge aufzugeben.
 
+## Mystery Revelation Timeline
+### Samuel-Geheimnis (Haupt-Mystery):
+**BA5:** Samuel wird seltener sichtbar, mysteriöser
+- Samuel erscheint nur kurz, um Mut zu machen, verschwindet dann wieder
+- Wird rätselhafter und weniger greifbar als in den vorherigen Szenen
+- Team merkt, dass sie sich nicht mehr so auf seine ständige Präsenz verlassen können
+- Mystery vertieft sich: "Warum zieht Samuel sich zurück?"
+- Vorbereitung auf seinen "Tod" - seine Abwesenheit wird spürbarer
+
+### Kartenwürfel-Geheimnis (Neben-Mystery):
+**BA5:** Ein Rätsel des Kartenwürfels scheint unlösbar
+- Team kommt an einem Rätsel des Kartenwürfels nicht weiter
+- Erste große Frustration mit dem Kartenwürfel-System
+- Diskussion entsteht: Sollen sie den Würfel zerstören, um Samuel zu rufen?
+- Mystery erreicht Wendepunkt: "Müssen wir unseren Fortschritt aufgeben?"
+- Erste Überlegung, das System aufzugeben für direktes Vertrauen
 
 # Grober Ablauf
 

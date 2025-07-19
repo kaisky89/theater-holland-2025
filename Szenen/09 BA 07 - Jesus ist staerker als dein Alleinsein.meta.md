@@ -23,6 +23,24 @@ BA 7: Jesus ist stärker als dein Alleinsein (Janosch)
 - **Finale Wendung:** Samuel kehrt zurück, Tor öffnet sich
 - **Auflösung:** Heimkehr mit neuer Erkenntnis über wahre Stärke
 
+## Mystery Revelation Timeline
+### Samuel-Geheimnis (Haupt-Mystery):
+**BA7:** Samuel kehrt zurück - Enthüllung seiner wahren Natur als Erlöser
+- Samuel taucht wieder auf und spricht Aria Vergebung aus
+- Zeigt sich als derjenige, der wahre Stärke und Erlösung bringt
+- Team erkennt: Nur Samuel kann sie aus dem Spiel rausholen - er war von Anfang an der einzige Weg
+- Mystery-Auflösung: Samuel repräsentiert Jesus/Gott - der wahre Retter und Erlöser
+- Finale Erkenntnis: Wahre Stärke kommt von Vertrauen auf Samuel/Jesus
+- Parallele zur Auferstehung Jesu - der tot geglaubte Retter kehrt zurück
+
+### Kartenwürfel-Geheimnis (Neben-Mystery):
+**BA7:** Karl wirft System weg - Vertrauen statt Logik
+- Karl hat ein komplettes Entschlüsselungssystem für den Kartenwürfel entwickelt
+- Am Ende wirft er den Kartenwürfel weg und hört stattdessen auf Samuel
+- Mystery-Auflösung: Der Würfel war nur ein Werkzeug, um Vertrauen zu lernen
+- Wahre Navigation kommt durch Vertrauen auf Samuel, nicht durch eigene Systeme
+- Finale Lektion: Nicht alles muss verstanden werden - Glaube ist wichtiger als Wissen
+
 # Grober Ablauf
 
 - Aria ist alleine unterwegs und muss den Weg zu den anderen wiederfinden

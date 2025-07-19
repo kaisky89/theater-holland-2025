@@ -23,6 +23,24 @@ Godi 2: Jesus ist stärker als der Tod (Amy S, Julia)
 - **Cliffhanger-Typ:** Existential Cliffhanger
 - **Details:** "Ohne Samuel sind wir verloren - gibt es noch Hoffnung?"
 
+## Mystery Revelation Timeline
+### Samuel-Geheimnis (Haupt-Mystery):
+**GoDi2:** Samuel "stirbt" - größte Krise
+- Samuel wird in einer gefährlichen Situation scheinbar getötet oder stirbt
+- Aria erlebt hautnah mit, wie Samuel etwas Schreckliches passiert
+- Team verliert ihren Mentor, Hoffnungsträger und einzigen Weg nach Hause
+- Mystery erreicht dramatischen Höhepunkt: "Ist Samuel wirklich tot?"
+- Parallele zur Kreuzigung Jesu - der Retter scheint zu versagen
+- Größte Krise und Verzweiflung vor der finalen Auferstehung/Rückkehr
+
+### Kartenwürfel-Geheimnis (Neben-Mystery):
+**GoDi2:** Kartenwürfel scheint nutzlos ohne Samuel
+- Ohne Samuel verliert der Kartenwürfel seine Bedeutung und Funktion
+- Team erkennt, dass der Würfel nur durch Samuel's Gegenwart funktionierte
+- Karl beginnt zu verstehen, dass sein System ohne Samuel wertlos ist
+- Mystery nähert sich der Auflösung: "War der Würfel nur ein Werkzeug für Samuel?"
+- Vorbereitung auf Karl's finale Entscheidung, das System ganz aufzugeben
+
 # Grober Ablauf
 
 - Samuel befreit Aria aus einer gefährlichen Situation.

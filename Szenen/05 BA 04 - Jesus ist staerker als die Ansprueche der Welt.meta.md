@@ -23,6 +23,23 @@ BA 4: Jesus ist stärker als die Ansprüche der Welt (Janis)
 - **Cliffhanger-Typ:** Physical Cliffhanger
 - **Details:** "Welchen Mechanismus hat Karl gefunden?" - Gemeinsame Problemlösung nötig.
 
+## Mystery Revelation Timeline
+### Samuel-Geheimnis (Haupt-Mystery):
+**BA4:** Samuel ermutigt, wo andere versagen
+- Samuel erscheint nach Diego's Versagen und macht ihm Mut
+- Lobt Diego für seinen Einsatz, obwohl er "versagt" hat - unerwartete Reaktion
+- Zeigt eine andere Sicht auf Erfolg und Versagen als die Welt
+- Mystery vertieft sich: "Warum bewertet Samuel anders als erwartet?"
+- Erste Hinweise auf seine Rolle als Erlöser und Tröster
+
+### Kartenwürfel-Geheimnis (Neben-Mystery):
+**BA4:** Kartenwürfel offenbart versteckte Mechanismen
+- Karl entdeckt durch den Kartenwürfel einen versteckten Mechanismus für den Stein
+- Würfel zeigt Lösungen, die nicht offensichtlich sind
+- Erste Anzeichen, dass der Würfel "intelligente" Hinweise gibt
+- Mystery entwickelt sich: "Wie kann der Würfel verborgene Dinge zeigen?"
+- Verbindung zwischen Kartenwürfel und übernatürlichem Wissen wird stärker
+
 
 # Grober Ablauf
 
