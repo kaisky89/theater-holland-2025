@@ -91,27 +91,46 @@ Jedes Szene folgt dieser Grundstruktur:
 # [Tag X]: [Titel der Szene]
 
 ## Charaktere
-- **Charaktername** (Beschreibung/Rolle)
-- **Kinder** (Publikum/Mitspieler)
+
+- **CHARAKTERNAME** (Beschreibung/Rolle)
+- **KINDER** (Publikum/Mitspieler)
 
 ## Handlung
 
-**CHARAKTERNAME** *(Regieanweisung)*
+*Regieanweisung für Bühnenbild und Situation*
+
+**CHARAKTERNAME** *(Regieanweisung)*  
 Dialog text...
 
-*(Publikum einbeziehen)*
-**CHARAKTERNAME** *(zum Publikum)*
+**CHARAKTERNAME** *(zum Publikum)*  
 Interaktiver Dialog...
 
+*(Publikum einbeziehen)*  
+Frage an das Publikum...  
+*(Publikum: „Antwort!")*
+
+---
+
 ## Regieanweisungen
-- Bühnenbild: Beschreibung
-- Soundeffekte: Liste der Effekte
-- Publikumsinteraktion: Beschreibung der Interaktionen
-- Requisiten: Benötigte Gegenstände
 
-# Formatierungsregeln
+- **Bühnenbild:** Beschreibung
 
-- **Charakternamen** werden fett geschrieben und in Großbuchstaben
+- **Soundeffekte:** Liste der Effekte
+
+- **Licht:** Lichteffekte und -wechsel
+
+- **Publikumsinteraktion:** Beschreibung der Interaktionen
+
+- **Requisiten:** Benötigte Gegenstände
+```
+
+## Formatierungsregeln
+
+- **Charakternamen** werden fett geschrieben: `**NAME**`
 - *Regieanweisungen* werden kursiv und in Klammern geschrieben
+- **Zwei Leerzeichen am Ende jeder Dialogzeile** für korrekte Zeilenumbrüche in GitHub
+- Szenenüberschriften als Unterüberschriften (`###`) formatieren
+- Horizontale Trennlinien (`---`) zwischen Szenen verwenden
 - Publikumsinteraktionen werden mit `*(Publikum einbeziehen)*` markiert
-- Regieanweisungen am Ende sammeln alle technischen Details
+- Regieanweisungen am Ende mit **Fettschrift** für Kategorien strukturieren
+- Leere Zeilen für bessere Lesbarkeit verwenden

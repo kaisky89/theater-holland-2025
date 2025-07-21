@@ -1,14 +1,5 @@
 # Hauptcharaktere für "Die Unglaublichen - Abenteuer im Dschungel"
 
-Marvin -> Samuel
-Anna -> Maya
-Pia -> Aria
-Fynn -> Diego
-Janosch -> Karl
-
-Kai -> Techniker
-Jasmin -> Tiger
-
 ## Die 5 Protagonisten
 
 ### 1. **MAYA** - Die Anführerin

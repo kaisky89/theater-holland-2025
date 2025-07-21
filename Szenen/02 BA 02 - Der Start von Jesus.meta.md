@@ -1,3 +1,10 @@
+# Ausgangslage
+- Die Gruppe ist aus dem Studiosetting ins Spiel versetzt worden und besitzt nun Superkräfte.
+- Jeder Protagonist kennt seine Fähigkeit (Bewegung, Rätsellösen, Fährtenlesen/Heilen, Stärke).
+- Sie tragen den Kartenwürfel und wissen: 3-mal drehen ruft Samuel herbei.
+- Samuel hat ihnen den Flusslauf westwärts als Einstieg ins erste Rätsel empfohlen.
+- „In dieser Welt gibt es keinen Zufall“ wurde als Leitmotiv etabliert.
+
 # Bibelarbeit
 BA 2: Der Start von Jesus (Marvin)
 - **Text:** Matthäus 1,18–25, ggf. Ergänzungen aus Lukas 2 (Geburt Jesu)
@@ -22,10 +29,6 @@ BA 2: Der Start von Jesus (Marvin)
 - **Cliffhanger-Typ:** Mystery Cliffhanger
 - **Details:** "Warum ist der Programmierer selbst im Spiel gefangen?" - Diskussion über Samuels wahre Natur.
 
-## Micro-Tension-Elemente
-- Publikums-Votes: "Was sollen wir machen?"
-- Mini-Rätsel: Kurze Denkaufgaben für Publikum.
-- Emotionale Beats: Charaktere zeigen Selbstbewusstsein/Unsicherheit.
 
 ## Mystery Revelation Timeline
 ### Samuel-Geheimnis (Haupt-Mystery):
@@ -51,8 +54,9 @@ BA 2: Der Start von Jesus (Marvin)
   - Diego versucht entweder einen schweren Stein hochzuheben oder irgendeinen Baum rauszureißen, und dabei krazt er sich und bittet Aria, ihm zu heilen
   - Sie ist erstmal überfordert, aber dann sieht sie irgendeine Pflanze, die wundheilend wirkt, und dann legt sie ihm die Pflanze auf die Wunde und heilt ihn
 - Kinder entdecken, dass Samuel zwar als Wächter im Spiel ist, aber gleichzeitig auch der Macher des Spiels ist.
-  - Idee wie sie es erfahren: Karl findet in der Spielwelt Hinweise (vielleicht durch eine Uhr, mit der ins Internet kann), die auf Samuel als Entwickler des Spiels hindeuten. Er erinnert sich außerdem an Informationen, die er über Samuel in der realen Welt recherchiert hat.
+  - Idee wie sie es erfahren: Karl findet auf dem Würfel Hinweise, die auf Samuel als Entwickler des Spiels hindeuten. Er erinnert sich außerdem an Informationen, die er über Samuel in der realen Welt recherchiert hat.
 - Die Frage steht im Raum, warum der Programmierer selbst im Spiel ist, und wie das überhaupt geht.
+- Die Szene endet mit einem Cliffhanger, der die Kinder dazu bringt, über Samuels wahre Natur und Motivation zu spekulieren, und sich zu fragen, ob sie ihm wirklich vertrauen können.
 
 ## Charakterentwicklung
 
