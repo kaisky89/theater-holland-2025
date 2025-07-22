@@ -12,6 +12,7 @@
 
 **PRINZESSIN** *(winkt vom Balkon)*  
 Hallo, liebe Kinder! Ich brauche eure Hilfe!  
+Heute ist ein ganz besonderer Tag im Schloss!
 
 **DRACHE** *(fliegt um das Schloss)*  
 Keine Sorge, Prinzessin! Ich bin ein lieber Drache!  
