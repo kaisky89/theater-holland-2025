@@ -5,7 +5,6 @@
 ## Setting
 *Am Flussufer, westlich des Startpunkts. Die Protagonisten stehen vor einer kleinen Lichtung mit verschiedenen Hindernissen - Steine, Baumstämme, eine Stelle mit heilkräftigen Pflanzen.*
 
-
 ---
 
 ## Szene
