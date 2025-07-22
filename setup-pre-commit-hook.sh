@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Setup script to install the pre-commit hook for automatic Fountain conversion
+# Setup script to install the pre-commit hook for automatic Fountain and PDF conversion
 # This script copies the pre-commit hook to the correct Git hooks directory
 
 set -e  # Exit on any error
@@ -33,6 +33,23 @@ if [ ! -f "$CONVERTER_SCRIPT" ]; then
     echo "❌ Error: md_to_fountain.py not found in project root."
     echo "Please ensure the converter script exists before setting up the hook."
     exit 1
+fi
+
+# Check if screenplain is available for PDF conversion
+if ! command -v screenplain &> /dev/null; then
+    echo "⚠️  Warning: screenplain is not installed or not in PATH"
+    echo "   PDF conversion will not work without screenplain."
+    echo "   Install it with: pip install screenplain"
+    echo ""
+    read -p "Do you want to continue anyway? (y/N): " -r
+    if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+        echo "❌ Setup cancelled."
+        echo "Please install screenplain first: pip install screenplain"
+        exit 1
+    fi
+    echo "⚠️  Continuing without screenplain - PDF conversion will fail until installed."
+else
+    echo "✅ screenplain found - PDF conversion will work."
 fi
 
 # Git hooks directory
@@ -89,9 +106,10 @@ echo ""
 echo "🎯 What this hook does:"
 echo "   - Runs automatically before each commit"
 echo "   - Converts all staged .md files in Szenen/ to Fountain format"
+echo "   - Converts Fountain files to PDF using screenplain"
 echo "   - Skips .meta.md files"
-echo "   - Saves converted files to Szenen/fountain/"
-echo "   - Automatically stages the converted .fountain files"
+echo "   - Saves converted files to Szenen/fountain/ and Szenen/pdf/"
+echo "   - Automatically stages the converted .fountain and .pdf files"
 echo ""
 echo "🧪 Testing the hook:"
 echo "   You can test the hook by staging a .md file in Szenen/ and committing:"

@@ -13,6 +13,7 @@
 
 ### SZENE 1: REALITÄT – COMPUTERSPIEL-PREMIERE
 
+
 *Links auf der Bühne: strahlend beleuchtetes Game-Studio mit großem Monitor, Konsolen und futuristischen Lichtern. TECHNIKER steht bei einem Kontrollpult. MAYA, KARL, ARIA und DIEGO warten gespannt.*
 
 **TECHNIKER** *(enthusiastisch, zum Publikum und den Protagonisten)*  

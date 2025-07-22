@@ -1,6 +1,16 @@
-# Pre-Commit Hook Setup für Automatische Fountain-Konvertierung
+# Pre-Commit Hook Setup für Automatische Fountain- und PDF-Konvertierung
 
-Dieses Setup ermöglicht es, dass bei jedem Git-Commit automatisch alle Markdown-Theaterskripte ins Fountain-Format konvertiert werden.
+Dieses Setup ermöglicht es, dass bei jedem Git-Commit automatisch alle Markdown-Theaterskripte ins Fountain-Format und anschließend ins PDF-Format konvertiert werden.
+
+## Voraussetzungen
+
+- Python 3 (für MD → Fountain Konvertierung)
+- `screenplain` (für Fountain → PDF Konvertierung)
+
+**Installation von screenplain:**
+```bash
+pip install screenplain
+```
 
 ## Schnellstart
 
@@ -25,8 +35,10 @@ Wenn Sie eine `.md`-Datei im `Szenen/` Ordner committen:
 1. ✅ Der Pre-Commit Hook wird automatisch ausgeführt
 2. ✅ Alle gestaging-ten `.md`-Dateien werden zu `.fountain` konvertiert
 3. ✅ Die `.fountain`-Dateien werden in `Szenen/fountain/` gespeichert
-4. ✅ Die konvertierten Dateien werden automatisch zum Commit hinzugefügt
-5. ✅ Der Commit wird erst ausgeführt, wenn alles erfolgreich konvertiert wurde
+4. ✅ Die `.fountain`-Dateien werden zu `.pdf` konvertiert (mit screenplain)
+5. ✅ Die `.pdf`-Dateien werden in `Szenen/pdf/` gespeichert
+6. ✅ Alle konvertierten Dateien werden automatisch zum Commit hinzugefügt
+7. ✅ Der Commit wird erst ausgeführt, wenn alles erfolgreich konvertiert wurde
 
 ## Ordnerstruktur nach Installation
 
@@ -35,9 +47,12 @@ Ihr-Projekt/
 ├── Szenen/
 │   ├── szene1.md              # Ihre Markdown-Skripte
 │   ├── szene2.md
-│   └── fountain/              # Automatisch erstellt
-│       ├── szene1.fountain    # Automatisch konvertiert
-│       └── szene2.fountain
+│   ├── fountain/              # Automatisch erstellt
+│   │   ├── szene1.fountain    # Automatisch konvertiert
+│   │   └── szene2.fountain
+│   └── pdf/                   # Automatisch erstellt
+│       ├── szene1.pdf         # Automatisch konvertiert
+│       └── szene2.pdf
 ├── md_to_fountain.py          # Konverter-Script
 ├── pre-commit-hook.sh         # Hook-Script
 └── .git/hooks/
@@ -65,15 +80,22 @@ Ihr-Projekt/
    - Szenen/szene2.md
 🔄 Converting: Szenen/szene1.md
 ✅ Successfully converted to: Szenen/fountain/szene1.fountain
+🔄 Converting Fountain to PDF: szene1.fountain
+✅ Successfully converted to: Szenen/pdf/szene1.pdf
 🔄 Converting: Szenen/szene2.md
 ✅ Successfully converted to: Szenen/fountain/szene2.fountain
+🔄 Converting Fountain to PDF: szene2.fountain
+✅ Successfully converted to: Szenen/pdf/szene2.pdf
 
 📊 Conversion Summary:
-   - Files converted: 2
-   - Conversion errors: 0
+   - MD to Fountain files converted: 2
+   - MD to Fountain conversion errors: 0
+   - Fountain to PDF files converted: 2
+   - Fountain to PDF conversion errors: 0
 
-🎉 All theater scripts successfully converted to Fountain format!
-   The converted .fountain files have been staged for commit.
+🎉 All theater scripts successfully converted!
+   - .fountain files have been staged for commit.
+   - .pdf files have been staged for commit.
 
 ✅ Pre-commit hook completed successfully.
 ```
@@ -119,6 +141,26 @@ Der Hook verwendet `python3`. Stellen Sie sicher, dass Python 3 installiert ist:
 python3 --version
 ```
 
+### Problem: "screenplain is not installed"
+```
+❌ Error: screenplain is not installed or not in PATH
+Please install screenplain: pip install screenplain
+```
+
+**Lösung**: Installieren Sie screenplain:
+```bash
+pip install screenplain
+```
+
+### Problem: PDF-Konvertierung schlägt fehl
+Wenn Fountain → PDF Konvertierung fehlschlägt:
+1. Prüfen Sie, dass die `.fountain`-Datei korrekt ist
+2. Testen Sie screenplain manuell:
+   ```bash
+   screenplain --format pdf "Szenen/fountain/datei.fountain" "test.pdf"
+   ```
+3. Überprüfen Sie auf Sonderzeichen oder Formatierungsprobleme
+
 ### Problem: Hook läuft nicht
 Prüfen Sie, ob der Hook korrekt installiert und ausführbar ist:
 ```bash
@@ -157,14 +199,18 @@ python3 md_to_fountain.py Szenen/ihre-datei.md
    ```bash
    ls Szenen/fountain/
    # Sollte szene1.fountain enthalten
+   ls Szenen/pdf/
+   # Sollte szene1.pdf enthalten
    ```
 
 ### Team-Workflow:
 
 - Jeder Entwickler sollte den Hook installieren
-- Die `.fountain`-Dateien werden automatisch mit-committed
-- Alle haben immer die aktuellsten Fountain-Versionen
+- Alle Teammitglieder benötigen `screenplain`: `pip install screenplain`
+- Die `.fountain`- und `.pdf`-Dateien werden automatisch mit-committed
+- Alle haben immer die aktuellsten Fountain- und PDF-Versionen
 - Keine manuellen Konvertierungen mehr nötig
+- PDFs können direkt für Reviews oder Präsentationen verwendet werden
 
 ## Anpassungen
 
