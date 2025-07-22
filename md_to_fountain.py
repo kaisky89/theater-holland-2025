@@ -90,8 +90,8 @@ class MarkdownToFountainConverter:
                 fountain_lines.append('')
                 continue
 
-            # Character dialogue (**CHARAKTERNAME** *(action)*)
-            dialogue_match = re.match(r'^\*\*([A-ZÄÖÜ\s]+)\*\*\s*(\*\([^)]+\)\*)?\s*(.*)', line)
+            # Character dialogue (**CHARAKTERNAME** *(action)*) or (**CHARAKTERNAME**)
+            dialogue_match = re.match(r'^\*\*([^\*]+)\*\*\s*(\*\([^)]+\)\*)?\s*(.*)', line)
             if dialogue_match:
                 character = dialogue_match.group(1).strip()
                 action = dialogue_match.group(2)

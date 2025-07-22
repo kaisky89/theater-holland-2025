@@ -1,5 +1,6 @@
 # BA 01: Gott ist stärker als der Zufall
 
+
 ## Charaktere
 
 - **MAYA** (Anführerin, mutig)
