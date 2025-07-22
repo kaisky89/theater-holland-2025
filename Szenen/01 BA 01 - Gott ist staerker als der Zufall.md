@@ -89,6 +89,7 @@ Genau. Aber das ist noch nicht alles. Jeder von euch hat in dieser Welt besonder
 **ARIA** *(erstaunt)*  
 Superkräfte? Ernsthaft?
 
+
 **SAMUEL**  
 Maya, du hast die Fähigkeit, dich blitzschnell zu bewegen - schnell Hilfe zu holen und Fallen auszuweichen. Karl, dein Verstand ist in der Lage, Rätsel zu lösen, die unmöglich erscheinen. Aria, du hast außergewöhnlich scharfe Sinne, die dir helfen, Spuren zu lesen und Wunden zu heilen. Und Diego – du hast übermenschliche Stärke, die dir ermöglicht, schwere Hindernisse zu bewegen und Barrieren zu durchbrechen.
 
