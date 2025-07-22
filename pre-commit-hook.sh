@@ -30,16 +30,21 @@ if [ ! -d "$SZENEN_DIR" ]; then
     mkdir -p "$SZENEN_DIR"
 fi
 
-# Get list of staged .md files in Szenen directory
-STAGED_MD_FILES=$(git diff --cached --name-only --diff-filter=ACM | grep '^Szenen/.*\.md$' | grep -v '\.meta\.md$' || true)
+# Get list of staged .md files in Szenen directory (using null-terminated strings to handle spaces)
+STAGED_MD_FILES=()
+while IFS= read -r -d '' file; do
+    STAGED_MD_FILES+=("$file")
+done < <(git diff --cached --name-only -z --diff-filter=ACM | grep -z '^Szenen/.*\.md$' | grep -z -v '\.meta\.md$' || true)
 
-if [ -z "$STAGED_MD_FILES" ]; then
+if [ ${#STAGED_MD_FILES[@]} -eq 0 ]; then
     echo "ℹ️  No Markdown theater scripts to convert."
     exit 0
 fi
 
 echo "📝 Found staged Markdown files:"
-echo "$STAGED_MD_FILES" | sed 's/^/   - /'
+for file in "${STAGED_MD_FILES[@]}"; do
+    echo "   - $file"
+done
 
 # Create fountain output directory if it doesn't exist
 FOUNTAIN_DIR="$PROJECT_ROOT/Szenen/fountain"
@@ -52,7 +57,7 @@ fi
 CONVERTED_COUNT=0
 CONVERSION_ERRORS=0
 
-for md_file in $STAGED_MD_FILES; do
+for md_file in "${STAGED_MD_FILES[@]}"; do
     if [ -f "$PROJECT_ROOT/$md_file" ]; then
         echo "🔄 Converting: $md_file"
 
