@@ -61,10 +61,19 @@ for md_file in "${STAGED_MD_FILES[@]}"; do
         # Get the base name without extension
         base_name=$(basename "$md_file" .md)
         pdf_file="$PDF_DIR/${base_name}.pdf"
+        pdf_in_szenen="$SZENEN_DIR/${base_name}.pdf"
 
-        # Run the Markdown to PDF conversion
-        if mdpdf "$PROJECT_ROOT/$md_file" -o "$pdf_file"; then
-            echo "✅ Successfully converted to: Szenen/pdf/${base_name}.pdf"
+        # Run the Markdown to PDF conversion (output will be in Szenen/)
+        if mdpdf "$PROJECT_ROOT/$md_file"; then
+            # Move the PDF to Szenen/pdf/, overwrite if exists
+            if [ -f "$pdf_in_szenen" ]; then
+                mv -f "$pdf_in_szenen" "$pdf_file"
+                echo "✅ PDF moved to: Szenen/pdf/${base_name}.pdf"
+            else
+                echo "❌ PDF was not created in Szenen/: $pdf_in_szenen"
+                PDF_CONVERSION_ERRORS=$((PDF_CONVERSION_ERRORS + 1))
+                continue
+            fi
 
             # Stage the converted PDF file
             git add "$pdf_file"

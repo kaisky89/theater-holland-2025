@@ -1,5 +1,6 @@
 ### Szene 03: Der medizinische Notfall
 
+
 ## Charaktere
 
 - **KARL** (analysiert, sein Kartenwürfel hilft beim Navigieren)
