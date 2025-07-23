@@ -1,3 +1,15 @@
+# Ausgangslage
+- Die Protagonisten haben ihre Superkräfte erfolgreich getestet und verstehen ihre Fähigkeiten besser:
+  - Maya: Superschnelligkeit mit Zeitwahrnehmungseffekt
+  - Diego: Übermenschliche Stärke
+  - Aria: Heilung durch Pflanzen und natürliche Mittel
+  - Karl: Analytische Fähigkeiten und Kartenwürfel-Navigation
+- Karl hat entdeckt, dass Samuel sowohl der Spielentwickler als auch ein Charakter im Spiel ist
+- Eine schwache Kommunikation über den Kartenwürfel von Samuel warnte: "Nicht alles ist wie es scheint"
+- Die Gruppe ist verunsichert über Samuels wahre Natur und Motivation
+- Vertrauen in Samuel ist erschüttert - sie fragen sich, ob sie ihm trauen können
+- Das Team steht vor der Frage: Wer ist Samuel wirklich und warum ist der Programmierer selbst im Spiel gefangen?
+
 # Bibelarbeit
 Godi 1: Jesus ist stärker als Krankheit (Amy W, Dennis)
 - **Text:** Johannes 9,1–7 (Heilung eines Blindgeborenen)
