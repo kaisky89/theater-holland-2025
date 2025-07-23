@@ -1,133 +1,60 @@
-# Markdown zu Fountain Konverter
+# Markdown zu PDF Konverter
 
-Dieses Python-Script konvertiert Ihre Markdown-Theaterskripte ins Fountain-Format, welches ein Standard für Drehbücher ist.
+Dieses Projekt verwendet ab sofort eine direkte Konvertierung von Markdown-Theaterskripten ins PDF-Format – ganz ohne Zwischenschritt über Fountain oder screenplain.
 
 ## Installation
 
-Keine zusätzlichen Abhängigkeiten erforderlich. Das Script verwendet nur Python Standard-Bibliotheken.
+Für die PDF-Konvertierung wird das Tool [`mdpdf`](https://github.com/BlueHatbRit/mdpdf) benötigt.  
+Installiere es global mit:
+
+```bash
+npm install -g mdpdf
+```
 
 ## Verwendung
 
 ### Einzelne Datei konvertieren
 
 ```bash
-python md_to_fountain.py szene1.md
+mdpdf "Szenen/01 BA 01 - Gott ist staerker als der Zufall.md" -o "Szenen/pdf/01 BA 01 - Gott ist staerker als der Zufall.pdf"
 ```
 
-Mit spezifischem Ausgabedateinamen:
-```bash
-python md_to_fountain.py szene1.md szene1.fountain
-```
-
-### Ganzen Ordner konvertieren
+### Ganzen Ordner konvertieren (Beispiel mit Bash-Schleife)
 
 ```bash
-python md_to_fountain.py --dir Szenen
+mkdir -p Szenen/pdf
+for file in Szenen/*.md; do
+  [ "${file##*.}" = "md" ] && [[ "$file" != *.meta.md ]] && \
+    mdpdf "$file" -o "Szenen/pdf/$(basename "${file%.md}.pdf")"
+done
 ```
 
-Mit spezifischem Ausgabeordner:
-```bash
-python md_to_fountain.py --dir Szenen fountain_ausgabe
-```
+## Automatische Konvertierung beim Commit
 
-## Konvertierungsregeln
+Ein Pre-Commit-Hook sorgt dafür, dass alle geänderten Markdown-Dateien im Ordner `Szenen/` (außer `.meta.md`) automatisch ins PDF-Format konvertiert werden.  
+Die PDFs landen im Ordner `Szenen/pdf/` und werden direkt mit ins Commit aufgenommen.
 
-Das Script konvertiert Ihre Markdown-Formatierung folgendermaßen:
+**Beispiel für den Ablauf:**
+1. Du bearbeitest ein Skript, z.B. `Szenen/03 GoDi 01 - Jesus ist staerker als Krankheit.md`
+2. Du fügst es zum Commit hinzu:  
+   `git add Szenen/03\ GoDi\ 01\ -\ Jesus\ ist\ staerker\ als\ Krankheit.md`
+3. Beim Commit (`git commit ...`) wird automatisch  
+   `mdpdf` aufgerufen und erzeugt  
+   `Szenen/pdf/03 GoDi 01 - Jesus ist staerker als Krankheit.pdf`
+4. Die PDF wird automatisch mit ins Commit aufgenommen.
 
-### Szenenüberschriften
-```markdown
-# [Tag X]: [Titel der Szene]
-```
-→ 
-```fountain
-EXT. THEATER - TAG X
+## Formatierungsregeln
 
-# Titel der Szene
-```
-
-### Charaktere
-```markdown
-## Charaktere
-- **CHARAKTERNAME** (Beschreibung/Rolle)
-```
-→
-```fountain
-CHARACTERS:
-CHARAKTERNAME - Beschreibung/Rolle
-```
-
-### Dialoge
-```markdown
-**CHARAKTERNAME** *(Regieanweisung)*  
-Dialog text...
-```
-→
-```fountain
-CHARAKTERNAME
-(Regieanweisung)
-Dialog text...
-```
-
-### Regieanweisungen
-```markdown
-*Regieanweisung für Bühnenbild und Situation*
-```
-→
-```fountain
-REGIEANWEISUNG FÜR BÜHNENBILD UND SITUATION
-```
-
-### Publikumsinteraktion
-```markdown
-*(Publikum einbeziehen)*  
-Frage an das Publikum...  
-*(Publikum: „Antwort!")*
-```
-→
-```fountain
-(AUDIENCE PARTICIPATION)
-Frage an das Publikum...
-
-AUDIENCE
-Antwort!
-```
-
-### Produktionsnotizen
-```markdown
-## Regieanweisungen
-- **Bühnenbild:** Beschreibung
-- **Soundeffekte:** Liste der Effekte
-```
-→
-```fountain
-PRODUCTION NOTES:
-BÜHNENBILD: Beschreibung
-SOUNDEFFEKTE: Liste der Effekte
-```
-
-### Szenenübergänge
-```markdown
----
-```
-→
-```fountain
-CUT TO:
-```
+Die Markdown-Dateien folgen weiterhin dem theater-spezifischen Format (siehe `AGENTS.md`).  
+**Wichtig:** Die Formatierung in der PDF entspricht dem Standard-Output von mdpdf.  
+Für spezielle Layout-Wünsche siehe die [mdpdf Dokumentation](https://github.com/BlueHatbRit/mdpdf#options).
 
 ## Besonderheiten
 
-- `.meta.md` Dateien werden beim Ordner-Konvertieren übersprungen
-- Das Script behält die deutsche Sprache bei und übersetzt nur die Strukturelemente
-- Leere Zeilen werden für bessere Formatierung beibehalten
-- Automatisches Hinzufügen von `FADE IN:` am Anfang und `FADE OUT.` am Ende
-
-## Ausgabeformat
-
-Die konvertierten Dateien erhalten die Endung `.fountain` und können mit jedem Fountain-kompatiblen Editor oder Programm geöffnet werden, wie z.B.:
-- WriterDuet
-- Highland
-- Slugline
-- Fountain Mode für verschiedene Texteditoren
+- `.meta.md` Dateien werden übersprungen
+- Die PDFs werden immer im Ordner `Szenen/pdf/` abgelegt
+- Die Dateinamen bleiben identisch (nur `.pdf` statt `.md`)
+- Es gibt keinen Fountain- oder screenplain-Schritt mehr
 
 ## Beispiel
 
@@ -151,29 +78,24 @@ Könnt ihr mir helfen?
 *(Publikum: „Ja!")*
 ```
 
-**Ausgabe (Fountain):**
-```fountain
-EXT. THEATER - TAG 1
+**Ausgabe (PDF):**  
+Die PDF enthält den formatierten Markdown-Inhalt, wie von mdpdf erzeugt.
 
-# Der magische Wald
+---
 
-CHARACTERS:
-ZAUBERER - Hauptcharakter
-KINDER - Publikum
+## Vorteile
 
-FADE IN:
+- **Schneller Workflow:** Keine Zwischenschritte, keine Zusatzformate
+- **Einfache Installation:** Nur ein Tool (`mdpdf`) notwendig
+- **Automatisiert:** PDFs werden immer aktuell gehalten und mitversioniert
 
-DER VORHANG ÖFFNET SICH AUF EINEN DUNKLEN WALD
+---
 
-ZAUBERER
-(tritt aus den Schatten)
-Willkommen, liebe Kinder!
+## Hinweise
 
-(AUDIENCE PARTICIPATION)
-Könnt ihr mir helfen?
+- Für individuelle PDF-Layouts kann eine eigene CSS-Datei an mdpdf übergeben werden (siehe mdpdf-Doku).
+- Bei Problemen prüfe, ob mdpdf korrekt installiert ist (`mdpdf --version`).
 
-AUDIENCE
-Ja!
+---
 
-FADE OUT.
-```
+**Letzte Änderung:** Umstellung auf direkten Markdown→PDF-Workflow, Stand Juni 2024.

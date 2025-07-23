@@ -1,6 +1,5 @@
 # Szene 02 BA 02 - Der Start von Jesus
 
-
 ---
 
 ## Setting
