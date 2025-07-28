@@ -174,7 +174,7 @@ Höhere Stelle? Samuel, wer bist du eigentlich wirklich?
 Samuel, ich weiß nicht, wie ich dir danken kann.  
 
 **SAMUEL** *(steht auf)*  
-Sagt Aria, dass sie nicht versagt hat. Ihre Kräfte sind ein Geschenk – aber sie allein trägt nicht die Verantwortung für alles.  
+Sagt Aria, dass sie nicht versagt hat. Ihre Gabe ist ein Geschenk – aber sie allein trägt nicht die Verantwortung für alles.  
 
 *SAMUEL wendet sich zum Gehen.*
 

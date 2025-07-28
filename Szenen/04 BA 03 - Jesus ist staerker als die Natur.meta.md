@@ -2,7 +2,33 @@
 BA 3: Jesus ist stärker als die Natur (Klimawandel) (Jannik)
 - **Text:** Matthäus 8,23–27 (Sturmstillung)
 - **Vers des Tages:** 1. Mose 8,22
-- **Zielgedanke:** Auch wenn die Natur (z. B. Klimawandel) eine ernsthafte Bedrohung ist – Jesus ist stärker und hat alles unter Kontrolle.
+- **Zielgedanke:** Auch wenn die Natur (z. B. Klimawandel) eine ernsthafte Bedrohung ist – Jesus ist stärker und hat alles unter Kontrolle.
+
+# Ausgangslage
+
+## Situation nach Szene 03
+
+**Die Gruppe ist geschockt und verunsichert:**
+- Diego wurde von einer giftigen Pflanze schwer verletzt und beinahe getötet
+- Aria versuchte ihn mit ihren Pflanzenheilkünsten zu heilen, aber ihre Kräfte reichten nicht aus
+- Samuel erschien mysteriös mit einer besonderen Medizin und heilte Diego vollständig
+- Aria fühlte sich nutzlos und entfernte sich unbemerkt von der Gruppe während der Heilung
+- Samuel verschwand wieder ohne Erklärungen, nachdem er kryptische Worte über "höhere Stelle" sprach
+
+**Aktuelle Lage der Charaktere:**
+- **KARL:** Verwirrt und fasziniert - sein Kartenwürfel zeigt neue Symbole über "Vertrauen"
+- **MAYA:** Besorgt um die verschwundene Aria und frustriert über Samuels Rätselhaftigkeit
+- **DIEGO:** Dankbar und vollständig geheilt, aber verwirrt über Samuels wahre Identität
+- **ARIA:** Verschwunden - emotional aufgewühlt, fühlt sich als Versagerin
+- **SAMUEL:** Wieder unsichtbar, aber seine übernatürlichen Kräfte sind nun offensichtlich
+
+**Offene Fragen:**
+- Wo ist Aria und wie geht es ihr?
+- Wer oder was ist Samuel wirklich?
+- Können sie Samuel vertrauen?
+- Was bedeuten die neuen Symbole auf Karls Würfel?
+
+**Emotionale Stimmung:** Verunsicherung, Dankbarkeit gemischt mit Misstrauen, Sorge um Aria
 
 # Spannungsbogen
 
@@ -20,7 +46,7 @@ BA 3: Jesus ist stärker als die Natur (Klimawandel) (Jannik)
 
 ## Cliffhanger-Strategie
 - **Cliffhanger-Typ:** Decisive Cliffhanger
-- **Details:** "Können Steine wirklich schwimmen? Vertrauen wir Samuel?" - Publikum soll abstimmen.
+- **Details:** "Können Steine wirklich schwimmen? Vertrauen wir Samuel?"
 
 ## Mystery Revelation Timeline
 ### Samuel-Geheimnis (Haupt-Mystery):
@@ -41,7 +67,9 @@ BA 3: Jesus ist stärker als die Natur (Klimawandel) (Jannik)
 
 
 # Grober Ablauf
-
+- Aria ist verschwunden, das Team sucht sie
+- Das Team findet Aria vor einem großen Fluss, sie sitzt am Ufer und weint
+- Aria ist überrascht, dass Diego wieder gesund ist. Sie erfährt von den anderen, dass Samuel Diego geheilt hat und lässt sich von den anderen trösten, ist aber emotional immer noch aufgewühlt
 - Das Team steht vor einem sehr breiten Fluss und weiß nicht, wie sie hinüberkommen sollen
 - Maya will eine andere Stelle zur Überquerung suchen und das Team in diese Richtung führen
 - Diego dauert das zu lange - er ist ungeduldig und will eine schnellere Lösung
@@ -50,8 +78,7 @@ BA 3: Jesus ist stärker als die Natur (Klimawandel) (Jannik)
 - Sie versuchen es mit dem Holz, aber die Baumstämme gehen unter - das funktioniert nicht
 - Das Team ist ratlos und frustriert
 - Samuel erscheint und schlägt eine ungewöhnliche Lösung vor: Steine zu nehmen, die schwimmen
-- Mit Samuels Hilfe und den schwimmenden Steinen schafft es das Team über den Fluss
-- Sie lernen, dass Gottes Wege manchmal anders sind als ihre eigenen Ideen
+- Szene endet mit der Frage, ob sie Samuel vertrauen und seine Lösung ausprobieren sollen
 
 ## Charakterentwicklung
 
