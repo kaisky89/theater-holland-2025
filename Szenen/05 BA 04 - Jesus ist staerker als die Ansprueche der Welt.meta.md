@@ -5,6 +5,43 @@ BA 4: Jesus ist stärker als die Ansprüche der Welt (Janis)
 - **Zielgedanke:** Bei Jesus gelten andere Maßstäbe. Wir müssen nicht die Coolsten, Größten oder Besten sein.
 
 
+# Ausgangslage
+
+## Situation nach Szene 04
+- Die Gruppe steht vor einem breiten Fluss, der ihren Weg blockiert
+- Mayas "sichere" Route flussaufwärts ist wegen wilder Tiere blockiert
+- Karls physikalisch logisches Floß ist im Wasser gesunken und gescheitert
+- Samuel hat vorgeschlagen, dass Steine schwimmen könnten, ist aber wieder verschwunden
+- Die vier stehen bereit, den ersten "schwimmenden" Stein ins Wasser zu werfen (Cliffhanger)
+
+## Aktuelle Lage der Charaktere:
+- **DIEGO:** Körperlich vollständig von Samuel geheilt, voller Dankbarkeit und Vertrauen zu Samuel, bereit für mutige Aktionen
+- **ARIA:** Hat ihre Selbstzweifel nach dem Heilungsversagen überwunden, ist wieder bei der Gruppe, zeigt neues Vertrauen
+- **MAYA:** Frustriert, dass ihre Führungsansätze (sichere Route) nicht funktioniert haben, zögerlich bei Samuels unlogischen Vorschlägen
+- **KARL:** Verwirrt, dass seine wissenschaftlichen Ansätze versagen, sein Kartenwürfel zeigt weiterhin "Vertrauen" als Symbol
+
+## Mysterystand:
+**Samuel-Geheimnis:**
+- Karl hat herausgefunden: Samuel ist der Spielentwickler Samuel Thornfield
+- Rätsel vertieft sich: Warum ist der Entwickler in seinem eigenen Spiel gefangen?
+- Samuel kann Dinge heilen und Lösungen anbieten, die unmöglich erscheinen
+- Seine Abschiedsbotschaft: "Nicht alles ist wie es scheint, aber manchmal ist das, was echt ist, größer als alles, was wir uns vorstellen können"
+
+**Kartenwürfel-Geheimnis:**
+- Zeigt beständig das Symbol "Vertrauen" an
+- Hat bisher bei der Navigation geholfen (Heilpflanzen finden)
+- Scheint "intelligente" Hinweise zu geben, die über normale Spielmechanik hinausgehen
+
+## Offene Fragen/Konflikte:
+- Werden die Steine wirklich schwimmen, obwohl es physikalisch unmöglich ist?
+- Können sie Samuel vertrauen, obwohl er der Entwickler ist, der sie hier "gefangen" hat?
+- Wie kommen sie über den Fluss, nachdem alle logischen Lösungen versagt haben?
+- Warum funktionieren wissenschaftliche und praktische Ansätze in dieser Welt nicht?
+
+## Emotionale Stimmung: 
+**Angespannte Hoffnung** - Die Gruppe steht kurz vor einem Vertrauenssprung, ist aber noch voller Zweifel an unmöglichen Lösungen.
+
+
 # Spannungsbogen
 
 ## Übergeordnete Struktur
@@ -43,6 +80,7 @@ BA 4: Jesus ist stärker als die Ansprüche der Welt (Janis)
 
 # Grober Ablauf
 
+- Die Gruppe benutzt schwimmende Steine, um den Fluss zu überqueren. Sie sind überrascht, dass es funktioniert, feiern es aber auch, sind erleichtert und erahnen, dass es Samuel möglicherweise gut mit ihnen meint, sind sich aber nicht sicher / einig.
 - Diego bekommt die Gelegenheit, seine Kraft zu beweisen und ist zunächst erfolgreich
 - Dann kommen viele kleinere Herausforderungen, bei denen er immer wieder an seine Grenzen stößt
 - Das Team erreicht eine Höhle, durch die sie hindurchmüssen, aber der Eingang ist von einem großen Stein versperrt
