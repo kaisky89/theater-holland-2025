@@ -65,10 +65,6 @@ Für eine ausführliche Beschreibung der Charaktere, siehe `Charaktere.md`
 
 - **Der Kartenwürfel:** Eine Zauberwürfel (RubicsCube), der statt Farben eine Karte auf den Flächen hat, die die Protagonisten durch den Dschungel führt. Er enthält Rätsel und Hinweise, die gelöst werden müssen, um das Tor der wahren Stärke zu finden. Außerdem kann die Gruppe den Würfel nutzen, um Samuel zu rufen, wenn sie in Not sind. Dafür müssen sie den Würfel allerdings in eine Stellung bringen, wo alle Seiten des Würfels wieder durcheinander sind und damit die Karte nicht mehr lesbar ist.
 
-## Interaktive Elemente
-
-Die Theaterstücke sind so gestaltet, dass sie interaktive Elemente enthalten, die das Publikum aktiv einbeziehen. Das passiert meistens, indem der Techniker, der bei der Einsaugung der Kinder dabei war, die Szene per Fernbedinung "pausiert" (alle Protagonisten frieren ein) und dann das Publikum mit einbezieht. Das Publikum kann dann beispielsweise Fragen beantworten, Entscheidungen treffen oder kleine Rätsel lösen.
-
 ## Entwicklungsstand
 
 **Aktueller Status:** 🟡 Phase 1 - Story-Mapping (In Vorbereitung)
@@ -93,7 +89,6 @@ Jedes Szene folgt dieser Grundstruktur:
 ## Charaktere
 
 - **CHARAKTERNAME** (Beschreibung/Rolle)
-- **KINDER** (Publikum/Mitspieler)
 
 ## Handlung
 
@@ -102,12 +97,9 @@ Jedes Szene folgt dieser Grundstruktur:
 **CHARAKTERNAME** *(Regieanweisung)*  
 Dialog text...
 
-**CHARAKTERNAME** *(zum Publikum)*  
-Interaktiver Dialog...
-
-*(Publikum einbeziehen)*  
-Frage an das Publikum...  
-*(Publikum: „Antwort!")*
+**CHARAKTERNAME**
+Dialog text...
+*(Regieanweisung)*
 
 ---
 
@@ -119,8 +111,6 @@ Frage an das Publikum...
 
 - **Licht:** Lichteffekte und -wechsel
 
-- **Publikumsinteraktion:** Beschreibung der Interaktionen
-
 - **Requisiten:** Benötigte Gegenstände
 ```
 
@@ -131,6 +121,5 @@ Frage an das Publikum...
 - **Zwei Leerzeichen am Ende jeder Dialogzeile** für korrekte Zeilenumbrüche in GitHub
 - Szenenüberschriften als Unterüberschriften (`###`) formatieren
 - Horizontale Trennlinien (`---`) zwischen Szenen verwenden
-- Publikumsinteraktionen werden mit `*(Publikum einbeziehen)*` markiert
 - Regieanweisungen am Ende mit **Fettschrift** für Kategorien strukturieren
 - Leere Zeilen für bessere Lesbarkeit verwenden
