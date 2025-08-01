@@ -33,27 +33,16 @@ Der richtige Weg ist nicht der schnellste oder der sicherste - sondern der, den 
 Das hilft uns nicht weiter! Wir brauchen eine klare Antwort!
 
 **SAMUEL** *(Stimme, eindringlich)*  
-Einigt euch auf einen Weg, aber wichtiger noch: Bleibt zusammen, was auch passiert. Vertraut einander.
+Einigt euch auf einen Weg, aber wichtiger noch: Bleibt zusammen, was auch passiert. Vertraut einander.  
+*(Die Stimme verstummt)*
 
 **ARIA** *(leise)*  
 Zusammen bleiben... das klingt wichtig.
 
 **KARL**  
-Also gut. Dann entscheiden wir demokratisch. Maya, du kennst dich mit Navigation aus - was denkst du?
+Also gut. Dann entscheiden wir demokratisch. Wer ist für den Weg durch den Dschungel?
 
-**MAYA** *(studiert die Wege)*  
-Der linke Pfad sieht sicherer aus, auch wenn er länger ist.
-
-**DIEGO**  
-Und der rechte ist direkter. Wir verschwenden weniger Zeit.
-
-**ARIA**  
-Ich... ich vertraue eurer Entscheidung. Hauptsache, wir gehen zusammen.
-
-**MAYA**  
-Dann nehmen wir den linken Weg. Alle einverstanden?
-
-*Alle nicken zustimmend*
+*Alle außer DIEGO heben die Hand*
 
 **DIEGO**  
 Von mir aus. Aber dann los!
@@ -61,12 +50,6 @@ Von mir aus. Aber dann los!
 ### Der Weg zur Ruine
 
 *Sie beginnen zu gehen, in einer Linie über die Bühne*
-
-**KARL** *(schaut auf den Würfel)*  
-Komisch, der Würfel zeigt jetzt ganz andere Symbole...
-
-**MAYA** *(vorneweg)*  
-Das ist ein gutes Zeichen! Wir sind auf dem richtigen Weg.
 
 **DIEGO** *(etwas abseits)*  
 Hier rechts ist eine Abkürzung durch das Dickicht. Wir könnten Zeit sparen...
@@ -81,9 +64,6 @@ Es ist nur eine kleine Abkürzung! Ich bin in fünf Minuten wieder bei euch.
 Diego, nein! Wir haben vereinbart...
 
 *Aber DIEGO ist bereits zur Seite abgebogen*
-
-**DIEGO** *(ruft zurück)*  
-Vertraut mir! Ich kenne mich aus!
 
 **KARL**  
 Diego, warte!
@@ -117,21 +97,16 @@ Keine Panik! Sie kann nicht weit sein. Ich finde sie schon!
 Das ist deine Schuld, Diego! Du bist einfach weggelaufen!
 
 **DIEGO** *(defensiv)*  
-Meine Schuld? Du bist mir nachgelaufen! Du hättest bei Aria bleiben können!
+Meine Schuld? Ihr seid mir nachgelaufen! Ihr hättet ja auch bei Aria bleiben können!
 
 **KARL**  
-Und ich bin euch beiden gefolgt! Das war dumm von mir!
-
-**MAYA**  
 Samuel hat uns gewarnt! "Bleibt zusammen", hat er gesagt!
 
 **DIEGO**  
 Ich wollte doch nur helfen! Eine Abkürzung finden!
 
-**KARL** *(verzweifelt)*  
+**MAYA** *(verzweifelt)*  
 Was machen wir jetzt? Aria ist allein da draußen!
-
-### Diego's Zusammenbruch
 
 **DIEGO** *(läuft unruhig hin und her)*  
 Okay, okay... ich kann das regeln. Ich finde sie. Ich bin stark genug, ich schaffe das allein...
@@ -164,33 +139,12 @@ Wisst ihr was? Ich tue immer so, als wäre ich stark. Als könnte ich alle besch
 Diego...
 
 **DIEGO**  
-Aber die Wahrheit ist... ich habe solche Angst. Angst, dass ich euch im Stich lasse. Angst, dass ich nicht gut genug bin.
-
-**KARL** *(setzt sich auch)*  
-Du lässt uns nicht im Stich.
-
-**DIEGO** *(mit Tränen in den Augen)*  
-Doch! Seht doch! Aria ist weg, weil ich gedacht habe, ich wüsste es besser. Weil ich nicht auf Samuel gehört habe.
-
-**MAYA**  
-Wir alle haben Fehler gemacht, Diego.
-
-**DIEGO**  
-Als ich klein war... mein kleiner Bruder ist einmal verloren gegangen, weil ich nicht auf ihn aufgepasst habe. Ich habe geschworen, das nie wieder zuzulassen.
+Aber die Wahrheit ist... ich habe solche Angst. Angst, dass ich euch im Stich lasse. Als ich klein war... mein kleiner Bruder ist einmal verloren gegangen, weil ich nicht auf ihn aufgepasst habe. Ich habe geschworen, das nie wieder zuzulassen.
 
 *Er wischt sich die Augen*
 
-**DIEGO**  
-Aber Aria... sie ging in Richtung der alten Holzbrücke! Das hatte ich vergessen - sie sagte vorhin, sie würde gern die Holzbrücke sehen!
-
-**KARL** *(aufgeregt)*  
-Die Holzbrücke! Das ist ein Hinweis!
-
-**MAYA**  
-Diego, danke dass du uns das erzählt hast. Das alles.
-
 **KARL**  
-Wisst ihr was? Wir haben alle Fehler gemacht. Ich hätte nicht einfach folgen sollen.
+Wisst ihr was? Wir haben alle Fehler gemacht. Ich hätte euch nicht einfach folgen sollen.
 
 **MAYA**  
 Und ich hätte Aria nicht allein lassen dürfen. Ich bin die Anführerin - das war meine Verantwortung.
@@ -201,17 +155,11 @@ Dann... dann sollten wir sie gemeinsam suchen. Aber ich weiß nicht mal, wo wir 
 **MAYA** *(niedergeschlagen)*  
 Wir sind ein Team... aber was für ein Team sind wir denn? Wir haben Aria im Stich gelassen.
 
-**DIEGO** *(verzweifelt)*  
-Wie sollen wir sie finden? Wir kennen uns hier nicht aus. Wir haben keine Ahnung, wo sie ist.
+**KARL** *(verzweifelt)*  
+Wie sollen wir sie finden? Wir kennen uns hier nicht aus. Und es wird langsam dunkel.
 
-**MAYA**  
-Und es wird dunkel. Aria ist ganz allein da draußen, und es ist unsere Schuld.
-
-**KARL**  
+**DIEGO**  
 Samuel hatte recht. Wir hätten zusammenbleiben sollen. Aber wir haben nicht auf ihn gehört.
-
-**DIEGO** *(setzt sich wieder hin)*  
-Vielleicht... vielleicht können wir das gar nicht allein wiedergutmachen.
 
 **KARL** *(leise, hoffnungslos)*  
 Aria... wo bist du nur?
@@ -232,14 +180,12 @@ Aria? Wo bist du?
 
 *Er geht zur Holzbrücke, sieht Spuren im Boden*
 
-**SAMUEL** *(leise, erkennt die Spuren)*
+**SAMUEL** *(leise, erkennt die Spuren)*  
 Die Spuren führen hier entlang... Sie muss in diese Richtung gegangen sein.
 
 *Er folgt den Spuren, ruft weiter nach ARIA, geht von der Bühne*
 
 *Plötzlich ein lautes, bedrohliches Tiergeräusch aus dem Off*
-
----
 
 ---
 
