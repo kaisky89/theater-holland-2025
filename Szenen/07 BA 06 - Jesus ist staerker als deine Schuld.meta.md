@@ -4,6 +4,34 @@ BA 6: Jesus ist stärker als deine Schuld (Dennis)
 - **Vers des Tages:** 1. Petrus 2,24
 - **Zielgedanke:** Jesus will uns nicht strafen, sondern vergeben. Er hat unsere Strafe getragen und ist für unsere Schuld ans Kreuz gegangen.
 
+# Ausgangslage
+
+## Situation nach Szene 6
+- Karl hat den Kartenwürfel zurückgesetzt und Samuel um Hilfe gerufen
+- Die Szene endete mit einem Blackout nach dem mysteriösen Würfel-Ereignis
+- Die Gruppe war zuvor in einem Streit über die Wegwahl gefangen (Maya wollte sicheren Weg, Diego schnellen Weg)
+- Alle stehen vor der Weggabelung zur geheimnisvollen Ruine
+
+## Aktuelle Lage der Charaktere:
+- **DIEGO:** Ungeduldig und frustriert nach dem Streit; will endlich vorankommen; zeigt noch seine "starke" Fassade
+- **MAYA:** Resigniert nach dem Kontrollverlust; hat zugestimmt, Samuel zu rufen, obwohl sie gegen das Würfel-Reset war
+- **KARL:** Hat gerade eine große Entscheidung getroffen (Würfel zurückgesetzt); unsicher über die Konsequenzen
+- **ARIA:** Ängstlich und besorgt; macht sich Sorgen über alle möglichen Gefahren; noch immer unsicher nach ihrem früheren Versagen beim Heilen
+
+## Mysterienstand:
+- **Samuel-Geheimnis:** Samuel ist Spielentwickler, aber gefangen in seinem eigenen Spiel - Grund unbekannt
+- **Kartenwürfel-Geheimnis:** Wurde gerade zurückgesetzt; Karl hofft auf Samuels Hilfe bei der Navigation
+- **Neue Frage:** Was passiert nach dem mysteriösen Blackout-Ereignis?
+
+## Offene Fragen/Konflikte:
+- Wegfindung zur Ruine noch ungeklärt
+- Spannungen zwischen Maya (Kontrolle) und Diego (Ungeduld) ungelöst
+- Vertrauen in Samuel vs. Selbstständigkeit
+- Arias anhaltende Selbstzweifel nach Heilungsversagen
+
+## Emotionale Stimmung: 
+Gespannte Unsicherheit - Die Gruppe wartet auf Samuels Erscheinen nach dem dramatischen Würfel-Reset, während ungelöste Konflikte unter der Oberfläche schwelen.
+
 
 # Spannungsbogen
 
@@ -42,13 +70,18 @@ BA 6: Jesus ist stärker als deine Schuld (Dennis)
 
 # Grober Ablauf
 
-- Durch das falsche Verhalten der Gruppe verlieren sie Aria
+- Nach dem Würfel-Reset ist nur Samuels Stimme aus dem Würfel zu hören
+- Samuel gibt ihnen den Rat: "Der richtige Weg ist nicht der schnellste oder der sicherste - sondern der, den ihr gemeinsam mit vollem Vertrauen geht. Einigt euch auf einen Weg, aber wichtiger noch: Bleibt zusammen, was auch passiert."
+- Die Gruppe findet Konsens und bricht gemeinsam auf
+- Durch das falsche Verhalten der Gruppe verlieren sie Aria (Ironie: trotz Samuels Warnung "bleibt zusammen")
 - Es beginnt ein gegenseitiges Beschuldigen unter den Teammitgliedern
 - Diego tut zunächst optimistisch und versucht die Situation zu retten
 - Am Ende ist auch Diego verzweifelt und teilt seine wahren Gefühle den anderen mit
 - Dabei gibt es ein Detail, was ihnen in der schwierigen Situation hilft
 - Das Team muss lernen, Verantwortung für ihre Fehler zu übernehmen
 - Sie erkennen, dass Schuldzuweisungen das Problem nicht lösen
+
+(Auf der anderen Seite der Bühne)
 - Samuel sucht die fehlende Aria
 - Szene endet mit Samuel, wie er Aria sucht und man auf einmal aus der ferne ein wildes Tier schreien hört
 
