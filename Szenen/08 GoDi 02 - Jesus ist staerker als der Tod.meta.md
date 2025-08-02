@@ -4,6 +4,36 @@ Godi 2: Jesus ist stärker als der Tod (Amy S, Julia)
 - **Vers des Tages:** 2. Timotheus 1,10
 - **Zielgedanke:** Das Leben auf der Erde ist nicht perfekt, aber wir haben Hoffnung über dieses Leben hinaus – Jesus hat den Tod besiegt.
 
+# Ausgangslage
+
+## Situation nach Szene 07
+- Diego gestand seine Ängste und Schuldgefühle bezüglich seines verlorenen Bruders
+- Die Gruppe trennte sich ungewollt: Diego bog zur Abkürzung ab, Maya und Karl folgten ihm
+- Aria blieb allein zurück und ging verloren, als sie versucht die anderen zu finden
+- Samuel begann nach Aria zu suchen und folgte ihren Spuren
+- Bedrohliche Tiergeräusche deuteten auf eine gefährliche Situation hin
+
+## Aktuelle Lage der Charaktere:
+- **ARIA:** Allein und verloren im Dschungel, in akuter Gefahr durch wilde Tiere
+- **SAMUEL:** Sucht aktiv nach Aria, folgt ihren Spuren zur Holzbrücke
+- **MAYA:** Bei Karl und Diego, voller Sorge um die verlorene Aria
+- **KARL:** Kartenwürfel wurde zurückgesetzt, sucht verzweifelt nach Aria
+- **DIEGO:** Emotional geöffnet nach seinem Geständnis, macht sich Vorwürfe
+
+## Mysterystand:
+- **Samuel-Geheimnis:** Samuel als Spielentwickler bestätigt, aber sein wahrer Status in der Spielwelt weiter unklar
+- **Kartenwürfel-Geheimnis:** Würfel wurde zurückgesetzt um Samuel zu kontaktieren, funktioniert aber ohne Samuel's physische Präsenz begrenzt
+- **Neue Hinweise:** Samuels Warnung "nicht alles ist wie es scheint" gewinnt an Bedeutung
+
+## Offene Fragen/Konflikte:
+- Wie kann Aria aus der Gefahr gerettet werden?
+- Warum ist Samuel sowohl Spielentwickler als auch Gefangener im Spiel?
+- Was bedeutet Samuels cryptische Warnung wirklich?
+- Kann Aria wieder zurück zur Gruppe finden?
+
+## Emotionale Stimmung: 
+Verzweiflung und Angst - Die Gruppe steht vor ihrer größten Krise
+
 
 # Spannungsbogen
 
@@ -41,22 +71,29 @@ Godi 2: Jesus ist stärker als der Tod (Amy S, Julia)
 - Mystery nähert sich der Auflösung: "War der Würfel nur ein Werkzeug für Samuel?"
 - Vorbereitung auf Karl's finale Entscheidung, das System ganz aufzugeben
 
+## Bühnenaufteilung
+Aufgeteilt in zwei Bereiche:
+- In der Nähe des Tors
+- Holzbrücke
+
 # Grober Ablauf
 
-- Samuel befreit Aria aus einer gefährlichen Situation.
-- In Arias Augen passiert Samuel etwas Schreckliches
+In der Nähe vom Tor:
+- Ein wildes Tier greift Aria an, während sie allein und verloren im Dschungel ist
+- Samuel findet Aria in diesem kritischen Moment und stellt sich schützend zwischen sie und das gefährliche Tier
+- Während das Tier auf Samuel losgeht, gerät Aria in Panik und läuft weg
+- In Arias Augen passiert Samuel etwas Schreckliches - sie sieht wie das Tier ihn angreift
 - Aria denkt, dass Samuel tot ist oder stirbt
-- Sie macht sich schwere Selbstvorwürfe, weil sie glaubt, dass Samuel ihretwegen in diese Situation geraten ist
+- Sie macht sich schwere Selbstvorwürfe, weil sie glaubt, dass Samuel ihretwegen in diese Situation geraten ist und sich für sie geopfert hat
 - Die Szene zeigt Arias Verzweiflung und ihren Schmerz über den vermeintlichen Verlust
-- Es wird deutlich, wie wichtig Samuel für sie und das Team geworden ist
+- Es wird deutlich, wie wichtig Samuel für sie geworden ist
 - Die Situation spiegelt die Hoffnungslosigkeit wider, die Menschen empfinden, wenn sie den Tod konfrontiert sehen
 - Diese Szene bereitet das Thema der Auferstehung und der Hoffnung über den Tod hinaus vor
 
-# Ideen
+Holzbrücke:
+- Die anderen (Maya, Karl, Diego) sind auf der Suche nach Aria, kommen zur Holzbrücke und finden dort Spuren von Samuel und Aria
+- In dem Moment, in dem sie die Spuren entdecken, kommt Aria zu ihnen, völlig verzweifelt und glaubt, Samuel sei tot
 
-- Die Gefahr könnte ein wildes Tier sein, das Aria angreift
-- Samuel könnte Aria retten, indem er sich zwischen sie und das Tier stellt
-- Während das Tier auf Samuel losgeht, könnte Aria in Panik geraten und weglaufen
 
 ## Charakterentwicklung
 
