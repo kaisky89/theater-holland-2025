@@ -1,4 +1,4 @@
-# BA 06: Jesus ist stärker als deine Schuld
+# Tag 07 BA 06 - Jesus ist stärker als deine Schuld
 
 ## Charaktere
 

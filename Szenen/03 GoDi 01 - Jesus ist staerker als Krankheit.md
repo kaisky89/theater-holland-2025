@@ -1,4 +1,4 @@
-### Szene 03: Der medizinische Notfall
+# Tag 03 GoDi 01 - Jesus ist stärker als Krankheit
 
 
 ## Charaktere
