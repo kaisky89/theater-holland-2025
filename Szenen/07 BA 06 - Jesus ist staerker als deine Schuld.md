@@ -52,7 +52,7 @@ Von mir aus. Aber dann los!
 *Sie beginnen zu gehen, in einer Linie über die Bühne*
 
 **DIEGO** *(etwas abseits)*  
-Hier rechts ist eine Abkürzung durch das Dickicht. Wir könnten Zeit sparen...
+Ich habe da was gesehen, ich gehe mal nachschauen...
 
 **ARIA** *(besorgt)*  
 Aber Samuel sagte, wir sollen zusammenbleiben!
